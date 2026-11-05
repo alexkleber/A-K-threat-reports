@@ -1,0 +1,4208 @@
+{
+  "Event" : {
+    "analysis" : "2",
+    "Attribute" : [
+      {
+        "category" : "Network activity",
+        "comment" : "#1 · Cyber Attack · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/c\/1283513914\/24545"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#2 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Mixed-%E2%9A%A1Mail-Access-Full-Private-Fresh--38075"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#2 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#3 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-DATABASE-China-Loan-Data-2026"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#3 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#3 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#4 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xforums.st\/threads\/ulp-url-login-pass-1-400-000m-lines-hq.708307\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#4 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#5 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/c\/1283513914\/24543"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#5 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "amadeus.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#6 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-%E2%9C%A8-ULP-URL-LOGIN-PASS-1-440-000M-LINES-%E2%9C%A8-HQ-%E2%9C%A8"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#6 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#7 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-%E2%8F%B9%E2%98%91%EF%B8%8FX438-USA-MAIL-ACCESS-MIX%E2%98%91%EF%B8%8F%E2%8F%B9-03-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#7 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#8 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-X167-HOTMAIL-MAIL-ACCESS-X3-030-MIX-MAIL-ACCESS"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#8 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#9 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion\/article?slug=custom-bakehouse"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#9 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#9 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "custombakehouse.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#10 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/bf.st\/Thread-%E2%9C%A8-ULP-URL-LOGIN-PASS-1-400-000M-LINES-%E2%9C%A8-HQ-%E2%9C%A8--200018"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#10 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.hn"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#11 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-DATABASE-2-7-Billion-USA-SSN-Database--122158"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#11 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#11 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#12 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/destell6tk2la7w4d7d4apfzsywbt2lsdpui7i2rsfyrike7pxolrbyd.onion\/v\/mapfre-brasil-2026"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#12 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "destell6tk2la7w4d7d4apfzsywbt2lsdpui7i2rsfyrike7pxolrbyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#12 · Ransomware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/destell6tk2la7w4d7d4apfzsywbt2lsdpui7i2rsfyrike7pxolrbyd.onion\/proof\/mapfre-brasil-2026.txt"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#13 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-%E2%9C%A8-ULP-URL-LOGIN-PASS-1-400-000M-LINES-%E2%9C%A8-HQ-%E2%9C%A8--38067"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#13 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#14 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-%E2%9C%A8-ULP-URL-LOGIN-PASS-1-400-000M-LINES-%E2%9C%A8-HQ-%E2%9C%A8--38068"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#14 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#15 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "kabs.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#16 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "solutis.com.br"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#16 · Ransomware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "sol.ai"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#16 · Ransomware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "studio.ai"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#17 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "grupolorrio.es"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#18 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "mcewanfraserlegal.co.uk"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#19 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "hausarzt-praxis-ries.de"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#20 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "lightingdirect.co.nz"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#21 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "redblink.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#22 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "coemi.com.br"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#23 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "labatecpharma.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#24 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "antwerphousedentistry.co.uk"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#25 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "logsytech.fr"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#26 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "saude.mt.gov.br"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#27 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "fivestarplating.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#28 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "bsfgroup.co.uk"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#29 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "hightec.ch"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#30 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pages.com.ve"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#31 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "translogwest.de"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#32 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "neighborhoodhouse.org"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#33 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "airdriechristian.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#34 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "ashrosary.org"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#35 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "itsubishi-motors.com.ua"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#36 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "european-motorcars.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#37 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "megchem.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#38 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "customssupport.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#39 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "mkg-kirchrode.de"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#40 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/bf.st\/Thread-SELLING-IN-AU-Small-Finance-Bank-au-bank-in"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#40 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "au.bank.in"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#40 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.hn"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#41 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-%E2%9C%A8-ULP-URL-LOGIN-PASS-1-400-000M-LINES-%E2%9C%A8-HQ-%E2%9C%A8--122151"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#41 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#41 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#42 · Vulnerability · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/c\/1283513914\/24541"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#42 · Vulnerability · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-98432"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#43 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-BUYING-CUTE-PAIRS-OR-USERS"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#43 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#44 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-NEW-DROP-%E2%9A%A1%EF%B8%8F-ULP-UPDATE-01--2182426"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#44 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#45 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-deltadentalmo"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#45 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#46 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-containerstore"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#46 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#47 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-Simpsons-Tele-s"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#47 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#48 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-30-4ls-for-Only-12-Per"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#48 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#49 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done-you-just-need-to-send.89885\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#49 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "guyz.our"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#49 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#49 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#50 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Selling-OMPFinex-Data-Breach"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#50 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#50 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#51 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-cbp-dhs-information"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#51 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#51 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cbp.dhs.gov"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#51 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#52 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darkpro.net\/threads\/today-i%E2%80%99m-offering-a-germany-consumer-dataset-containing-6m-records-compiled.25540\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#52 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkpro.net"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#53 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-153-501-mixed-2026-10-15-08-56-10-Good-Line-Fresh-type-Mail-Pass"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#53 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#54 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-153-501-mixed-2026-10-15-08-56-10-Good-Line-Fresh-type-Mail-Pass"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#54 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#55 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-10-936-Private-FA-Good-Line-Fresh-2026-Mail-Pass"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#55 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#56 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122321"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#57 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion\/Thread-India-Women-Entrepreneurs-Database"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#57 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#57 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#58 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion\/Thread-Powerschool-ERP-database-Leak"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#58 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#58 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "powerschool.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#58 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#59 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xforums.st\/threads\/4-8k-hotmailvalid-mail-access-05-11.708301\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#59 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#60 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xforums.st\/threads\/48-4k-mix-valid-mail-access-05-11.708302\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#60 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#61 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/c\/3755871403\/1223"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#61 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "tni.mil.id"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#62 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-X980-MIX-MAIL-ACCESS-FRANCE-HQ"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#62 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#63 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Selling-Fiscal-sicfe-2m-records-URUGUAY"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#63 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#63 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#64 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/spear.cx\/Thread-%E5%B0%8B%E6%B1%82%E5%90%88%E4%BD%9C%EF%BC%9A%E5%8F%B0%E7%81%A3OSINT%E8%B3%87%E6%96%99%E6%94%B6%E9%9B%86--3249"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#64 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "spear.cx"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#65 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Selling-COLOMBIAN-NATIONAL-CIVIL-REGISTRY-%E2%80%93-41-4-MILLION-BIOMETRIC-RECORDS"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#65 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#65 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#66 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Selling-SpainDatabases"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#66 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#66 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#67 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Selling-Database-shyamtrading-com-480k"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#67 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#67 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "shyamtrading.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#67 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#68 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/nulledbb.com\/thread-48-4K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#68 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "nulledbb.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#69 · Phishing · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xss.mx\/threads\/149806\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#69 · Phishing · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xss.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#70 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-48-4K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#70 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#71 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done-you-just-need-to-send.89883\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#71 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "guyz.our"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#71 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#71 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#72 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-48-4K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#72 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#72 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Payload delivery",
+        "comment" : "#73 · Critical CVE · reference",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "sha1",
+        "value" : "bd3b8650c41d3537c2af1d2d32dcb5b9f2a1a754"
+      },
+      {
+        "category" : "Payload delivery",
+        "comment" : "#73 · Critical CVE · reference",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "sha1",
+        "value" : "7b75de605dca542a2953dd74c16f0eac96a8944e"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#73 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122992"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#74 · Cyber Attack · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Document-Compunet-Pwned-Ransom-Not-Paid-Mitsubishi-Colombia-Leak"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#74 · Cyber Attack · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#74 · Cyber Attack · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#75 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/nulledbb.com\/thread-4-8K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#75 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "nulledbb.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#76 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103057\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#76 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#77 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122313"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#78 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122311"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#79 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122310"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#80 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122303"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#81 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122304"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#82 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122302"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#83 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-480k-FRESH-ULP-LOGS-DATA-ONE-HAND"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#83 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#84 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-219K-ULP-PRIVATE"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#84 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#85 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-%E2%9C%8539K%E2%9C%85GODADDY%E2%9C%85MAIL-ACCESS%E2%9C%89%EF%B8%8FSMTPs-Cracked-By-smtps4you%E2%9C%85"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#85 · Logs · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "godaddy.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#85 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#86 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-X2-146-HOTMAIL-MAIL-ACCESS-X3-030-MIX-MAIL-ACCESS--2182364"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#86 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#87 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-4-8K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#87 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#88 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion\/Thread-SELLING-1-4m-usa-gemini-leads"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#88 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#88 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "gemini.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#88 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#89 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-NFT-Telegram--1320371"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#89 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#90 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xforums.st\/threads\/2400-good-mixmail-fresh-uhqgoodtimes-cloud.708299\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#90 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#91 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103055\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#91 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#92 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-%F0%9F%9A%80-7000-LOGS-CLOUD-%E2%98%81-05-NOVEMBER-%E2%9D%A4%EF%B8%8F-FRESH-LOGS%E2%9D%97%EF%B8%8F"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#92 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#92 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#93 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-%E2%AD%90%E2%9C%85%EF%B8%8F-EASY-GUARANTTED-MONEY-USING-THIS-METHOD-NODE-TRADING-2026-%E2%AD%90%E2%9C%85%EF%B8%8F--122112"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#93 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#93 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#94 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Wattpad-com-2026-cleaned--122080"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#94 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#94 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "wattpad.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#94 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#95 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FREE-MONEY-GUIDE--122085"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#95 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#95 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#96 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-%E2%AD%90%E2%9C%85%EF%B8%8F-EASY-GUARANTTED-MONEY-USING-THIS-METHOD-NODE-TRADING-2026-%E2%AD%90%E2%9C%85%EF%B8%8F--122097"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#96 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#96 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#97 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FREE-MONEY-GUIDE--122102"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#97 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#97 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#98 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-lf-id-zamasu-or-id-gokublack"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#98 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#99 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Document-%F0%9F%8C%90SEO-BL4CKHAT-SERVICE%F0%9F%8C%90"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#99 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#99 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#100 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-www-sport2026-fr--122073"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#100 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#100 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "sport2026.fr"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#100 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#101 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-RARE-4-LETTER-X-NAME-ZARD"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#101 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#102 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Roblox-2026-Admin-Panel-Scrape--122076"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#102 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#102 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "roblox.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#102 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#103 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-1-550-763-URL-LOGIN-PASS-FROM-VIP-SECTION-WORLDWIDE-11-05-2026"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#103 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#104 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-700-Hotmail-lines-Mail-Access--2182309"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#104 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#105 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-X2-146-HOTMAIL-MAIL-ACCESS-X3-030-MIX-MAIL-ACCESS"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#105 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#106 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-2-4k-Mix-lines-Mail-Access--2182307"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#106 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#107 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Document-900k-emails-data-crypto--122066"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#107 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#107 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#108 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-selling-3c-discord-user"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#108 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#109 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-lf-zamasu-or-gokublack--1320356"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#109 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#110 · Cyber Attack · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Getir-BiTaksi-HACKED-New-200K-customer-dump--122068"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#110 · Cyber Attack · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#110 · Cyber Attack · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#111 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FREE-MONEY-GUIDE--122061"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#111 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#111 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#112 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-1-550-763-URL-LOGIN-PASS-FROM-VIP-SECTION-WORLDWIDE-11-05-2026"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#112 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#113 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-1-7GB-FULL-LOGS--2182316"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#113 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#114 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/700-hotmail-lines-mail-access.215726\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#114 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#115 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/4-1gb-url-login-pass-lines-from-logs.215727\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#115 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#116 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/1-7gb-full-logs.215728\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#116 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#117 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-4-1GB-URL-LOGIN-PASS-lines-From-LOGS--2182312"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#117 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#118 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-%E2%AD%90600k-URL-LOGIN-PASS%E2%AD%90--2182323"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#118 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#119 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-BAPHOMET-V1-SOLANA-DRAINER-CODE--122035"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#119 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#119 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#120 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-CraxsRat-V5-full-Builder-Leak-Internally--122036"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#120 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#120 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#121 · Vulnerability · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-GOOGLE-CHROME-SAFEGUARD-SECURE-EXPLOIT-THROUGH-DHL--122038"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#121 · Vulnerability · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#121 · Vulnerability · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#122 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Wattpad-com-2026-cleaned--121913"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#122 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#122 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "wattpad.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#122 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#123 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Indonesia-Vaccine-Database--121914"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#123 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#123 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#124 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Ukraina-Citizenship-Database-53-million--121916"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#124 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#124 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#125 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-122051"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#126 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-zenmobile-france--121915"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#126 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#126 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#127 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-562GB-ALIEN-TXTBASE--121918"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#127 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#127 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#128 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Paypal-com-DataRows-25-117-Emails-1-004-SSN-23-988--121919"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#128 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#128 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "paypal.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#128 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#129 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FREE-MONEY-GUIDE--121938"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#129 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#129 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#130 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-SPAIN-Air%E2%80%AFMiles-Espa%C3%B1a-S-A-travelclub-es--121950"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#130 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#130 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "travelclub.es"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#130 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#131 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-Placeholder--1320304"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#131 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#132 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-Brand-name-TikTok"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#132 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#133 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Linkedin-Database-austria-liechtenstein-switzerland--121952"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#133 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#133 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "linkedin.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#133 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#134 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FBI-Database-Recent--121953"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#134 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#134 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "fbi.gov"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#134 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#135 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-109GB-850M-India-Nationwide-Identity-Dataset-HITEK--121955"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#135 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#135 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#136 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Pakistan-Vehicle-Sindh-Gov-Database-10-600-000--121984"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#136 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#136 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#137 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/altenens.is\/threads\/new-uk-betting-database-2026.3050296\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#137 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "altenens.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#138 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/altenens.is\/threads\/ukraine-citizenship-database-2026.3050297\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#138 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "altenens.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#139 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/ukraine-citizenship-database-2026.215722\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#139 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#140 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/altenens.is\/threads\/t-bank-investor-database-2026.3050300\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#140 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "altenens.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#141 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/t-bank-investor-database-2026.215723\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#141 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "tbank.ru"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#141 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#142 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/altenens.is\/threads\/latvian-citizen-demographic-address-records-database-2026.3050306\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#142 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "altenens.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#143 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/latvian-citizen-demographic-address-records-database-2026.215724\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#143 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#144 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/2-4k-mix-lines-mail-access.215725\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#144 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#145 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103037\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#145 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#145 · Malware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "lustgames.org"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#146 · Vulnerability · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103033\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#146 · Vulnerability · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#147 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-LEAKED-CRAXRAT-V05-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#147 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#147 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#148 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done.89875\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#148 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "guyz.our"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#148 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#148 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#149 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done.89881\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#149 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "guyz.our"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#149 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#149 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#150 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done.89882\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#150 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "guyz.our"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#150 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#150 · Data Breach · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#151 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Deezer-Russia-1-million-DB--121818"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#151 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#151 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "deezer.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#151 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#152 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-bppra-gob-pk-Database-admin--121820"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#152 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#152 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "bppra.gob.pk"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#152 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#153 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-VODAFONE-DATABASE--121828"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#153 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#153 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "vodafone.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#153 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#154 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Iraq-Parliamentary-Observatory-database--121841"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#154 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#154 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#155 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion\/post\/407e676b97f59d0ffb4cd2f8337f0128"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#155 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#155 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "centratamagroup.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#156 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-125GB-USA-SSN-DATABASE--121845"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#156 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#156 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#157 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/bf.st\/Thread-DATABASE-Looking-USA-Life-Insurace-DB"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#157 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.hn"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#158 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Taiwanese-Ministry-Of-Civil-Services-Mocs--121846"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#158 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#158 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#159 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-FR-Chronopost-04-11M"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#159 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#159 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "chronopost.fr"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#159 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#160 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-CHINA-ID-Cards-Credit-Cards-Business-Information-10-GB--121863"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#160 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#160 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#161 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-MASSIVE-CHINESE-DATA-COLLECTION-LEAK-%E2%80%93-50-BILLION-RECORDS-TOTAL-2026--121869"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#161 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#161 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#162 · Vulnerability · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/c\/3762223376\/66"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#162 · Vulnerability · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "changelly.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#163 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Arabian-Attacker-v04-11-2"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#163 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#163 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#164 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-CRAXRAT-V-04-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#164 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#164 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#165 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-VENOM-RAT-HVNC-V04-11"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#165 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#165 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#166 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-v20-Chromium-Based-Browser-Info-Stealer-ChromaX-Grabber-%F0%9F%AB%B3%F0%9F%92%B3-is-NOW-AVAILABLE--121851"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#166 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#166 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#167 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Andro-RAT-2026"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#167 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#167 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#168 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-PentrazyAI-is-a-lite-version-of-WormGPT-developed-by-SukaLebok06--121806"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#168 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#168 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#169 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-VanHelsing-Ransomware-Source-Code--121847"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#169 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#169 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#170 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Private-stealer-logs-need-Providers"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#170 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#170 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#171 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/new-uk-betting-database-2026.215721\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#171 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#172 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/txtloglinks-free-04-nov-2026-1-part.215709\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#172 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#173 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-SOURCE-Linux-rootkit--121792"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#173 · Malware · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#173 · Malware · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#176 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/altenens.is\/threads\/south-korean-telecommunications-database-2026.3050295\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#176 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "altenens.is"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#177 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-Russian-Crypto-Documents-Database--121772"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#177 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#177 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#178 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-TSA-NoFly-List-Database--121789"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#178 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#178 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "tsa.gov"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#178 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#179 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-PajEmploi-urssaf-fr-689k--121790"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#179 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#179 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "urssaf.fr"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#179 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#180 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-DHS-Database--121802"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#180 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#180 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "dhs.gov"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#180 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#181 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-paytm-com--121803"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#181 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#181 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "paytm.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#181 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#182 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-%E2%AD%90%EF%B8%8F14k-HOTMAIL-ACCESS%E2%AD%90%EF%B8%8F--38033"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#182 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#183 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-%E2%AD%90%EF%B8%8F169k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F--38030"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#183 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#184 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-115770"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#185 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-122m-%E2%9A%A1-URL-LOGIN-PASS-HQ-%E2%9A%A1--2182294"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#185 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#186 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion\/r\/c49641cd660fad465281e26e0734481866f38458"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#186 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#186 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "tfglondon.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#187 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Other-1-9gb-%E2%AD%90%EF%B8%8F-STEALER-LOGS-FULL-LOGS-%E2%AD%90%EF%B8%8F--2182297"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#187 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#188 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103024\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#188 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#188 · Logs · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pasteview.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#189 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-3-1k-%E2%9C%A8-HOTMAIL-MIX-VALID-MAIL-ACCESS-%E2%9C%A8"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#189 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#190 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bawaraa\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#190 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#190 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "msn.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#191 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/baaajai\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#191 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#191 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "dian.gov.co"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#192 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/baiapai\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#192 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#193 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/breached.st\/threads\/we-are-back-just-like-legendzforum-guyz-our-telegram-https-t-me-rayhush-hit-me-up-for-your-apple-items-orders-update-is-done.89865\/unread"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#193 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "breached.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#193 · Logs · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/t.me\/rayhush"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#194 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/basabah\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#194 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#194 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "vinitgloves.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#195 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bamahaa\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#195 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#196 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bakanai\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#196 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#197 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion\/Thread-SELLING-United-States-crypto-150K-Records"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#197 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#197 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#198 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/baoajah\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#198 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#199 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-54384"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#200 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion\/Thread-SELLING-Canada-real-estate-platform-1-2M-Records"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#200 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#200 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "gmail.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#200 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "pwnforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#201 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/badalaf\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#201 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#201 · Ransomware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "icn.ma"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#202 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bagaoah\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#202 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#202 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "jobmongers.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#203 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/baeaqab\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#203 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#204 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-52848"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#205 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/aavaxaz\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#205 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#206 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bavajaa\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#206 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#207 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bakamai\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#207 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#208 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/baravaj\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#208 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#209 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bawaqat\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#209 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#209 · Ransomware · mentioned",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "interativaplasticos.com.br"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#210 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-CANVA-com-database--121759"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#210 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#210 · Data Breach · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "canva.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#210 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#211 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bamasah\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#211 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#211 · Ransomware · victim",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "thecourierguy.co.za"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#212 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bataaab\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#212 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#213 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion\/company\/bamawat\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#213 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#214 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "http:\/\/darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion\/Thread-zenmobile-france--121761"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#214 · Data Breach · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#214 · Data Breach · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darkforums.as"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#215 · Accounts · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/oguser.com\/Thread-lf-cheap-3c-3l-discord-user"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#215 · Accounts · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "oguser.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#216 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/xforums.st\/threads\/73k-good-mail-access-mixed-domains.708292\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#216 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "xforums.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#217 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/leakforum.io\/Thread-Leak-%E2%AD%90%EF%B8%8F169k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#217 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "leakforum.io"
+      },
+      {
+        "category" : "External analysis",
+        "comment" : "#218 · Critical CVE · vulnerability",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "vulnerability",
+        "value" : "CVE-2026-54378"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#219 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/crackingx.com\/threads\/103022\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#219 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "crackingx.com"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#220 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/darknetarmy.st\/threads\/%F0%9F%98%8D%F0%9F%98%8D107k-fresh-mix-uhq-by-lucifersupportcl%F0%9F%98%8D%F0%9F%98%8D.215712\/"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#220 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "darknetarmy.io"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#221 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-%E2%AD%90%EF%B8%8F169k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#221 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#222 · Logs · post",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/cracked.st\/Thread-Email-Pass-73k-Good-Mail-Access-Mixed-Domains"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#222 · Logs · forum",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "domain",
+        "value" : "cracked.st"
+      },
+      {
+        "category" : "Network activity",
+        "comment" : "#223 · Ransomware · leak site",
+        "first_seen" : "2026-11-05T00:00:00Z",
+        "to_ids" : false,
+        "type" : "url",
+        "value" : "https:\/\/business-data-leaks.com\/about#6b58fff1f24b16c6cc5bbeb91"
+      }
+    ],
+    "date" : "2026-11-05",
+    "distribution" : "0",
+    "info" : "A.K Threat Hub Report — Period: 5 November 2026",
+    "Tag" : [
+      {
+        "name" : "tlp:clear"
+      }
+    ],
+    "threat_level_id" : "2"
+  }
+}
