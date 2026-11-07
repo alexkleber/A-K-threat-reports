@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 5 November 2026
 ====================================================================================================
-223 incidents, numbered as in the PDF report (#1 is the newest). Generated 5 November 2026, 10:28 by
+223 incidents, numbered as in the PDF report (#1 is the newest). Generated 7 November 2026, 08:35 by
 A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps, [.])
 and record counts are as claimed by the poster.
 
@@ -4879,7 +4879,7 @@ namespace admins to create...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
   Vendor             kyverno
 
-#125   2026-11-05 01:45   MEDIUM (score 45)
+#125   2026-11-05 01:45   HIGH (score 50)
 CVE-2026-122051: A flaw has been found in Edimax BR-6208AC 1.32. Affected by this vulnerability is
 an unknown functionality of...
 ----------------------------------------------------------------------------------------------------

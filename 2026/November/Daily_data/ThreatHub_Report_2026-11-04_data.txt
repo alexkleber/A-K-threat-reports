@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 4 November 2026
 ====================================================================================================
-121 incidents, numbered as in the PDF report (#1 is the newest). Generated 4 November 2026, 08:24 by
+121 incidents, numbered as in the PDF report (#1 is the newest). Generated 7 November 2026, 08:35 by
 A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps, [.])
 and record counts are as claimed by the poster.
 
@@ -2516,7 +2516,7 @@ the function...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P
   Vendor             Totolink
 
-#73   2026-11-04 02:15   MEDIUM (score 35)
+#73   2026-11-04 02:15   MEDIUM (score 45)
 CVE-2026-121598: A security vulnerability has been detected in TOTOLINK A950RG
 4.1.2cu.5268_B20221104. This impacts the...
 ----------------------------------------------------------------------------------------------------

@@ -1,0 +1,3268 @@
+A.K THREAT HUB — INCIDENT DATA
+Period: 2 November 2026
+====================================================================================================
+120 incidents, numbered as in the PDF report (#1 is the newest). Generated 7 November 2026, 08:35 by
+A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps, [.])
+and record counts are as claimed by the poster.
+
+CATEGORIES
+  Logs ...............................................................................     56    47%
+  Data Breach ........................................................................     23    19%
+  Accounts ...........................................................................     20    17%
+  Critical CVE .......................................................................      9     8%
+  Ransomware .........................................................................      6     5%
+  Phishing ...........................................................................      3     3%
+  Cyber Attack .......................................................................      1     1%
+  Malware ............................................................................      1     1%
+  Vulnerability ......................................................................      1     1%
+
+====================================================================================================
+LOGS — 56 incidents
+====================================================================================================
+
+#1   2026-11-02 07:42   MEDIUM (score 30)
+9.2M ULP credential logs (not fresh, historical data) shared on Cracked forum
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:42
+  UUID                  54687d95-3267-4e9d-9575-42f453db0114
+  Actors                Cloudredhat
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-9-2M-ULP-LOGS-NOT-FRESH-HISTORY-DATA-HQ
+  Preview               The thread title advertises 9.2 million ULP (URL:login:password) log entries
+                        described as not fresh, historical data of claimed high quality. The post
+                        body was unavailable, so no victim, price, or delivery details are
+                        supported.
+  Actor credits         100
+  Actor joined          Dec 2025
+  Actor posts           6.082
+  Actor rank            Contributor
+  Actor reactions       2.783
+  Actor reputation      102
+  Actor threads         5.836
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#2   2026-11-02 07:42   MEDIUM (score 30)
+34.37 million URL:LOGIN:PASS credential entries shared from VIP section, worldwide, dated 11/02/2026
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:42
+  UUID                  1a438fd2-4c79-4e28-adc7-c513901447c1
+  Actors                ImLupin
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-34-371-846-URL-LOGIN-PASS-FROM-VIP-SECTION-WORLDWIDE-11-02-2026
+  Preview               The actor ImLupin advertises a worldwide collection of more than 34,371,846
+                        URL:LOGIN:PASS entries, labeled as coming from a VIP section and dated
+                        11/02/2026. The post body contains only a promotional pointer to the
+                        Telegram channel @LupinIsHere and names no specific victim organization.
+  Actor credits         25
+  Actor joined          Jul 2022
+  Actor posts           2.876
+  Actor rank            t[.]me/LupinIsHere
+  Actor reactions       386
+  Actor reputation      142
+  Actor threads         428
+  Actor vouches         -1
+  Screenshot available  true
+  Screenshot count      1
+
+#18   2026-11-02 07:00   MEDIUM (score 30)
+Claimed Url:Login:Pass credential collection of 50,000,000+ lines shared on Cracked
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:00
+  UUID                  2561bfb3-f2c9-4008-84a3-e274c678a414
+  Actors                StarLinkClub
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-Url-Login-Pass-50-000-000-M%C4%B1ll%C4%B1on-L%C4%B1nes--2180486
+  Preview               The thread title advertises a Url:Login:Pass credential collection of more
+                        than 50,000,000 lines. The visible post body contains only a greeting and a
+                        request for likes, with no sample, download details, source, or named
+                        victim, so the claimed size is unverified.
+  Actor credits         0
+  Actor joined          Mar 2026
+  Actor posts           435
+  Actor rank            @StarLinkClouds secretline[.]top
+  Actor reactions       802
+  Actor reputation      14
+  Actor threads         190
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#24   2026-11-02 06:44   LOW (score 10)
+Mixed Mail Access Full Private & Fresh
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:44
+  UUID                  59309f79-dc38-4412-b9ae-87d2c2ece5be
+  Actors                wolfkingx
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 LeakForum
+  Forum domain          leakforum[.]io
+  Forum code            LF
+  Board                 Combolist
+  URL                   hxxps://leakforum[.]io/Thread-Mixed-%E2%9A%A1Mail-Access-Full-Private-Fresh--37620
+  Preview               The thread is titled Mixed Mail Access Full Private & Fresh. The source post
+                        did not provide enough extractable detail for a verified summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#27   2026-11-02 06:39   MEDIUM (score 37)
+HSRgroup leaks data allegedly stolen from multiple Indian government sites including
+copyright[.]gov[.]in and ekavach[.]nhm[.]up[.]gov[.]in
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:39
+  UUID                  48811703-b39f-4f2c-adcd-d9a67942faea
+  Actors                HSRgroup
+  Victim                Unknown
+  Country               India
+  Sector                Government
+  Victim site           copyright[.]gov[.]in
+  Data type             Personal Data
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Hacked Database Leaks
+  URL                   hxxps://darknetarmy[.]st/threads/leak-data-from-different-indian-government-services.213933/
+  Preview               HSRgroup claims to share data stolen from three Indian government services:
+                        copyright[.]gov[.]in (90 files, ~738k email lines, ~655k name/address lines,
+                        ~184k login/MD5 hash lines, payment data and server logs),
+                        ekavach[.]nhm[.]up[.]gov[.]in (939,438 records with Aadhaar IDs, employee
+                        names and mobile numbers), and cgstvadodarazone[.]gov[.]in (66 DB files,
+                        employee data, payment/SMS gateway settings). The post also exposes
+                        superadmin CRM credentials for the third site and provides a download link,
+                        sample data a…
+  Actor joined          October 30, 2026
+  Actor points          0
+  Actor posts           4
+  Actor rank            New Member
+  Actor reactions       0
+  Screenshot available  true
+  Screenshot count      3
+
+#29   2026-11-02 06:39   LOW (score 10)
+Logs Pack 1.89gb
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:39
+  UUID                  307a33cc-3d64-4edd-bdcf-61f1b92cf920
+  Actors                casinno
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Info Stealers Logs
+  URL                   hxxps://darknetarmy[.]st/threads/logs-pack-1-89gb.213673/
+  Preview               The thread is titled [Logs] Pack 1.89gb. The source body was unavailable or
+                        contained insufficient extractable details; further claims cannot be
+                        confirmed.
+  Actor joined          October 15, 2026
+  Actor points          1
+  Actor posts           6
+  Actor rank            Member
+  Actor reactions       0
+  Screenshot available  true
+  Screenshot count      1
+
+#35   2026-11-02 05:57   LOW (score 10)
+2.KGMAILMAIL ACCESSSMTPs Cracked By @smtps4you
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:57
+  UUID                  f9b33bc2-0d1b-4af9-9834-324e9e044ae0
+  Actors                smtps4youaws
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Combolists & Dumps
+  URL                   hxxps://crackingx[.]com/threads/102496/
+  Preview               The thread is titled 2.KGMAILMAIL ACCESSSMTPs Cracked By @smtps4you. The
+                        source post did not provide enough extractable detail for a verified
+                        summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#37   2026-11-02 05:53   MEDIUM (score 30)
+812 Million Cloud URL:Login:Password Logs Allegedly Free
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:53
+  UUID                  28b66eb3-364c-4889-bdba-1d675431b787
+  Actors                scl1211w
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 BreachForums
+  Forum domain          breached[.]hn
+  Forum code            BF3
+  Board                 Stealer Logs
+  URL                   hxxps://bf[.]st/Thread-URL-LOGIN-PASS-%E2%9C%AA-960-M-%E2%9C%AA-ULP-LOG-S-Date-%E2%9C%AA-cloud-%E2%9C%AA--199737
+  Preview               812M Cloud URL/log:passUHQ (FRESH) FREE ALL DATA HERE:
+                        hxxps://t[.]me/+gYRFW5SyjDBmMThk
+  Actor joined          Sep 2026
+  Actor posts           2
+  Actor rank            Member
+  Actor reputation      0
+  Actor threads         1
+  Screenshot available  true
+  Screenshot count      1
+
+#39   2026-11-02 05:41   LOW (score 16)
+[11.4K] Mix Valid Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:41
+  UUID                  3aa2c37a-0751-4346-ba6d-e2ec813c0601
+  Actors                cloudmarket1
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-11-4K-Mix-%C2%A0Valid-Mail-Access
+  Preview               The thread is titled [11.4K] Mix Valid Mail Access. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#40   2026-11-02 05:41   LOW (score 10)
+2,000 Gmail and Email Access Credentials with SMTP Capability
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:41
+  UUID                  0f715254-cb6a-4181-8d2d-d7d22e5202aa
+  Actors                smtpbasespam
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-2-K%E2%9C%85GMAIL%E2%9C%85MAIL-ACCESS%E2%9C%89%EF%B8%8FSMTPs-Cracked-By-smtps4you%E2%9C%85
+  Preview               The actor claims to have 2,000 cracked Gmail and general email account
+                        credentials with SMTP access capability. The post title indicates these are
+                        working email:password combinations advertised in the Combo List section of
+                        the forum.
+  Actor credits         0
+  Actor joined          Mar 2026
+  Actor posts           32
+  Actor rank            Cracked[.]sh Member
+  Actor reactions       34
+  Actor reputation      0
+  Actor threads         32
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#41   2026-11-02 05:38   LOW (score 16)
+[11.4K] Mix Valid Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:38
+  UUID                  e129405b-a4b7-4324-a624-2eee65a1365a
+  Actors                cloudmarket_pro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Combolists & Dumps
+  URL                   hxxps://crackingx[.]com/threads/102492/
+  Preview               The thread is titled [11.4K] Mix Valid Mail Access. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#43   2026-11-02 05:33   LOW (score 10)
+Fresh stealer logs bundle (3.1GB) dated 02-11-2026 shared on Altenens
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:33
+  UUID                  8363b436-6c90-4dbc-ba74-fafe29311f2d
+  Actors                cloudmarketpro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Leaked Databases
+  URL                   hxxps://altenens[.]is/threads/logs-fresh-3-1gb-from-02-11-2026.3049302/unread
+  Preview               The thread by cloudmarketpro offers a 3.1GB archive of logs labeled fresh
+                        and dated 02-11-2026. The download link is hidden behind a reply-to-unlock
+                        gate, and the post gives no named victim, log contents, or record counts.
+  Actor joined          Aug 27, 2026
+  Actor points          63
+  Actor posts           292
+  Actor rank            Well-known member
+  Actor reactions       466
+  Screenshot available  true
+  Screenshot count      1
+
+#44   2026-11-02 05:32   LOW (score 16)
+11.4K mix valid mail access credentials
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:32
+  UUID                  8d633236-f095-42f3-9ec9-dc917a16dd0f
+  Actors                cloudmarketpro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Combo List
+  URL                   hxxps://altenens[.]is/threads/11-4k-mix-valid-mail-access.3049300/unread
+  Preview               The actor offers 11.4K valid mail access credentials, labeled as a private
+                        and ultra-high-quality combo list. The actual credential data is hidden
+                        behind a reply requirement, preventing full assessment of the materials
+                        scope or target services.
+  Actor joined          Aug 27, 2026
+  Actor points          63
+  Actor posts           292
+  Actor rank            Well-known member
+  Actor reactions       466
+  Screenshot available  true
+  Screenshot count      1
+
+#46   2026-11-02 05:21   LOW (score 10)
+Fresh 3.3GB stealer logs dated 02-11-2026 shared on Cracked
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:21
+  UUID                  cbdca17a-07d9-4d0d-b0fa-26ba07992322
+  Actors                cloudmarket1
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-LOGS-FRESH-3-3GB-FROM-02-11-2026
+  Preview               The thread advertises a 3.3GB archive of logs described as fresh and dated
+                        02-11-2026. The body gives no details on log contents, source malware,
+                        geography, price, or delivery method, and no specific victim organization is
+                        named.
+  Actor credits         0
+  Actor joined          Aug 2026
+  Actor posts           574
+  Actor rank            Infinity
+  Actor reactions       373
+  Actor reputation      11
+  Actor threads         314
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#48   2026-11-02 05:13   LOW (score 10)
+[20.3M] - URL:LOG:PASS || PRIVATE || UHQ
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:13
+  UUID                  38225636-0baf-47b0-801b-8e9fe1fec159
+  Actors                cloudmarketpro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Leaked Databases
+  URL                   hxxps://altenens[.]is/threads/20-3m-url-log-pass-private-uhq.3049291/unread
+  Preview               The thread is titled [20.3M] - URL:LOG:PASS || PRIVATE || UHQ. The source
+                        body was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#49   2026-11-02 05:05   LOW (score 10)
+[20.3M] - URL:LOG:PASS || PRIVATE || UHQ
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:05
+  UUID                  cd8b426a-9fa1-4806-b701-bd9b5291cf3e
+  Actors                codecraftMas
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 NulledBB
+  Forum domain          nulledbb[.]com
+  Forum code            NB
+  Board                 Dumps
+  URL                   hxxps://nulledbb[.]com/thread-20-3M-URL-LOG-PASS-PRIVATE-UHQ
+  Preview               The thread is titled [20.3M] - URL:LOG:PASS || PRIVATE || UHQ. The source
+                        body was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#50   2026-11-02 05:02   LOW (score 10)
+[20.3M] - URL:LOG:PASS || PRIVATE || UHQ
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:02
+  UUID                  fe786482-a6c5-45be-8d50-b70773dece70
+  Actors                cloudmarket1
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-20-3M-URL-LOG-PASS-PRIVATE-UHQ
+  Preview               The thread is titled [20.3M] - URL:LOG:PASS || PRIVATE || UHQ. The source
+                        body was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#51   2026-11-02 04:59   MEDIUM (score 30)
+20.3M URL:Login:Password Logs Offered
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:59
+  UUID                  cda124c1-9c46-4ac5-8460-41a84f24d75c
+  Actors                cloudmarket_pro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Combolists & Dumps
+  URL                   hxxps://crackingx[.]com/threads/102487/
+  Preview               The actor cloudmarket_pro advertises a private offering of 20.3 million
+                        URL:login:password log records labeled as UHQ (ultra-high quality). The full
+                        post content is hidden behind a user registration requirement.
+  Actor joined          12 Aug 2026
+  Actor points          78
+  Actor posts           12
+  Actor rank            Nova
+  Actor reactions       940
+  Screenshot available  true
+  Screenshot count      1
+
+#54   2026-11-02 04:43   LOW (score 10)
+X516 HOTMAIL MAIL ACCESS + X246 MIX MAIL ACCESS
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:43
+  UUID                  a0106c5c-2ada-4b9a-9463-bd22c3cd3e44
+  Actors                ciasty
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-X516-HOTMAIL-MAIL-ACCESS-X246-MIX-MAIL-ACCESS--2180448
+  Preview               The thread is titled X516 HOTMAIL MAIL ACCESS + X246 MIX MAIL ACCESS. The
+                        source post did not provide enough extractable detail for a verified
+                        summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#60   2026-11-02 04:30   LOW (score 10)
+Add me with your cash app tag or PayPal Email I am back with legit and trusted Transfers Just 1-3min
+you will receive your transfers Cash app Tran
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:30
+  UUID                  1aaaf181-e1af-4161-b34b-1f7b038ef64a
+  Actors                resosi10
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 XForums
+  Forum domain          xforums[.]st
+  Forum code            XF
+  Board                 Mail Access & Combolists
+  URL                   hxxps://xforums[.]st/threads/add-me-with-your-cash-app-tag-or-paypal-email-i-am-back-with-legit-and-trusted-transfers-just-1-3min-you-will-receive-your-transfers-cash-app-tran.706815/
+  Preview               The thread is titled Add me with your cash app tag or PayPal Email I am back
+                        with legit and trusted Transfers Just 1-3min you will receive your transfers
+                        Cash app Tran. The source post did not provide enough extractable detail for
+                        a verified summary.
+  Screenshot available  true
+  Screenshot count      3
+
+#61   2026-11-02 04:30   LOW (score 10)
+[4.1K]HotmailValid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:30
+  UUID                  de0332e7-e525-498e-bf32-1184e3901953
+  Actors                RedCloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 XForums
+  Forum domain          xforums[.]st
+  Forum code            XF
+  Board                 Mail Access & Combolists
+  URL                   hxxps://xforums[.]st/threads/4-1k-hotmailvalid-mail-access-02-11.706806/
+  Preview               The thread is titled [4.1K]HotmailValid Mail Access 02.11. The source body
+                        was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#62   2026-11-02 04:30   LOW (score 10)
+[6.5K] Mix Valid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:30
+  UUID                  5eac27fa-024e-4f83-a71c-53ef951a6a03
+  Actors                RedCloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 XForums
+  Forum domain          xforums[.]st
+  Forum code            XF
+  Board                 Mail Access & Combolists
+  URL                   hxxps://xforums[.]st/threads/6-5k-mix-valid-mail-access-02-11.706818/
+  Preview               The thread is titled [6.5K] Mix Valid Mail Access 02.11. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#64   2026-11-02 04:13   LOW (score 10)
+Add me with your cash app tag or PayPal Email I am back with legit and trusted Transfers Just 1-3min
+you will receive your transfers Cash app Tran
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:13
+  UUID                  2b043646-d6d4-42fd-9474-fa66b1222b07
+  Actors                resosi10
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 XForums
+  Forum domain          xforums[.]st
+  Forum code            XF
+  Board                 SMTP Shell cPanel
+  URL                   hxxps://xforums[.]st/threads/add-me-with-your-cash-app-tag-or-paypal-email-i-am-back-with-legit-and-trusted-transfers-just-1-3min-you-will-receive-your-transfers-cash-app-tran.706814/
+  Preview               The thread is titled Add me with your cash app tag or PayPal Email I am back
+                        with legit and trusted Transfers Just 1-3min you will receive your transfers
+                        Cash app Tran. The source post did not provide enough extractable detail for
+                        a verified summary.
+  Screenshot available  true
+  Screenshot count      3
+
+#66   2026-11-02 04:07   LOW (score 10)
+Cookie bundle for Amazon, ChatGPT, Facebook and other services shared behind reply wall
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:07
+  UUID                  2fbcf3b2-73c5-4ba8-9520-073d2089096d
+  Actors                Norzoral
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Source Codes
+  URL                   hxxps://darkforums[.]as/Thread-cookies-amazon-chatgpt-facebook-more--120104
+  Preview               The thread title advertises cookies for Amazon, ChatGPT, Facebook and other
+                        services. The content is hidden behind a reply-to-view wall, so no quantity,
+                        format, freshness or source details are available.
+  Actor joined          Apr 2026
+  Actor posts           18
+  Actor rank            Members
+  Actor reputation      -1
+  Actor threads         17
+  Screenshot available  true
+  Screenshot count      1
+
+#68   2026-11-02 03:53   LOW (score 10)
+Alleged sale of stealer logs with article upload functionality
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:53
+  UUID                  04e7c304-c05e-414d-842b-22c1e8e791a2
+  Actors                Kebun_Sawit
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3755871403/1213
+  Preview               Threat actor offering stealer logs for sale. The logs appear to be
+                        associated with a domain and include article/news upload features. Contact
+                        via DM to @Kebun_Sawit for purchase inquiries.
+  Screenshot available  true
+  Screenshot count      1
+
+#69   2026-11-02 03:52   LOW (score 10)
+[6.5K] Mix Valid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:52
+  UUID                  a26b6831-90bd-4afc-9c8a-5c5db3855a23
+  Actors                tutuba4m
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 NulledBB
+  Forum domain          nulledbb[.]com
+  Forum code            NB
+  Board                 Dumps
+  URL                   hxxps://nulledbb[.]com/thread-6-5K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-02-11
+  Preview               The thread is titled [6.5K] Mix Valid Mail Access 02.11. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#70   2026-11-02 03:47   LOW (score 10)
+[6.5K] Mix Valid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:47
+  UUID                  fdbc798d-97ae-4d4e-957f-361cb397eaa7
+  Actors                RedLogsCloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-6-5K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-02-11
+  Preview               The thread is titled [6.5K] Mix Valid Mail Access 02.11. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#72   2026-11-02 03:40   LOW (score 10)
+6.5K Valid Mail Access Credentials
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:40
+  UUID                  e2fe3644-c568-4198-a868-a14743eeff84
+  Actors                redcloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Combo List
+  URL                   hxxps://altenens[.]is/threads/6-5k-sparkles-mix-sparkles-valid-mail-access-02-11.3049285/unread
+  Preview               The actor redcloud advertises 6.5K valid mail access credentials dated
+                        02.11.2026, described as a private and ultra-high-quality mix. Contact is
+                        available via Telegram at @tutuba5m with download access restricted to
+                        registered forum users.
+  Actor joined          Apr 14, 2025
+  Actor points          93
+  Actor posts           724
+  Actor rank            Respected Members
+  Actor reactions       3,085
+  Screenshot available  true
+  Screenshot count      1
+
+#73   2026-11-02 03:37   LOW (score 10)
+4.1K Valid Hotmail Email Access Credentials
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:37
+  UUID                  9f619ceb-1a7b-4d86-aa49-2da79d74f7c0
+  Actors                RedCloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Demonforums
+  Forum domain          demonforums[.]net
+  Forum code            DM
+  Board                 Combolists
+  URL                   hxxps://demonforums[.]net/Thread-4-1K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-02-11
+  Preview               The actor RedCloud posted a combo list entry containing approximately 4,100
+                        valid Hotmail email access credentials. The thread title indicates the
+                        credentials are dated 02.11 and marked as verified access material.
+  Screenshot available  false
+  Screenshot count      0
+
+#74   2026-11-02 03:35   LOW (score 10)
+[4.1K]HotmailValid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:35
+  UUID                  e06ab05a-a360-45ef-9042-f8fe0adb6ef8
+  Actors                tutuba4m
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 NulledBB
+  Forum domain          nulledbb[.]com
+  Forum code            NB
+  Board                 Dumps
+  URL                   hxxps://nulledbb[.]com/thread-4-1K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-02-11
+  Preview               The thread is titled [4.1K]HotmailValid Mail Access 02.11. The source body
+                        was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#75   2026-11-02 03:28   LOW (score 10)
+[4.1K]HotmailValid Mail Access 02.11
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:28
+  UUID                  5e040ca5-c0dc-44c1-b8bb-d8d88ef3c47d
+  Actors                RedLogsCloud
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-4-1K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-02-11
+  Preview               The thread is titled [4.1K]HotmailValid Mail Access 02.11. The source body
+                        was unavailable or contained insufficient extractable details; further
+                        claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#77   2026-11-02 03:17   LOW (score 10)
+2.5MM MAIL:PASS GAMING (ROBLOX,UPLAY,PSN,XBOX)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:17
+  UUID                  69f1c059-8f11-42ad-bbf3-36c4f14c9ce4
+  Actors                Prince1001
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Combo List
+  URL                   hxxps://altenens[.]is/threads/star2-5mmstar-mail-pass-gaming-roblox-uplay-psn-xbox.3049280/unread
+  Preview               The thread is titled 2.5MM MAIL:PASS GAMING (ROBLOX,UPLAY,PSN,XBOX). The
+                        source post did not provide enough extractable detail for a verified
+                        summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#83   2026-11-02 03:09   MEDIUM (score 30)
+2.5 Million Email:Password Credentials for Gaming Platforms (Roblox, Uplay, PSN, Xbox)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:09
+  UUID                  c0df2426-a6f4-44a0-8b82-95fc3f973a7d
+  Actors                Nuttela
+  Victim                Unknown
+  Country               Unknown
+  Sector                Gaming
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-%E2%AD%902-5MM%E2%AD%90-MAIL-PASS-GAMING-ROBLOX-UPLAY-PSN-XBOX-%E2%9A%A1BY-NUTTELA%E2%9A%A1
+  Preview               The actor Nuttela advertises a combo list of approximately 2.5 million
+                        email:password credentials targeting gaming platforms including Roblox,
+                        Uplay (Ubisoft Connect), PSN (PlayStation Network), and Xbox. The post
+                        indicates a large-scale credential collection aggregated from multiple
+                        gaming services.
+  Actor credits         1.680
+  Actor joined          Oct 2021
+  Actor posts           1.492
+  Actor rank            #1 COMBO SELLER
+  Actor reactions       3.500
+  Actor reputation      618
+  Actor threads         1.178
+  Actor vouches         13
+  Screenshot available  true
+  Screenshot count      1
+
+#85   2026-11-02 02:53   MEDIUM (score 30)
+16.85 Million URL:LOGIN:PASS Credential Logs Shared as Private Fresh Base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:53
+  UUID                  a4d9659b-046c-4ef0-bc53-1d9cde944f2e
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-16-85-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread title advertises a 16.85 million-line URL:LOG:PASS credential
+                        collection described as private, UHQ and a fresh new base. The post body is
+                        unavailable, so no victim, source, price, or delivery details are supported.
+  Screenshot available  true
+  Screenshot count      1
+
+#86   2026-11-02 02:52   MEDIUM (score 30)
+Alleged 19.95 million URL:LOGIN:PASS credential log base shared on Cracked forum
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:52
+  UUID                  74b2be35-c06d-434b-8c71-e518a3702c88
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-19-95-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread advertises a private UHQ fresh base of 19.95 million URL:LOG:PASS
+                        entries. The post body contains only decorative lettering (FRESH UHQ ULP
+                        LOG) with no download details, named victim, or sample data.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#87   2026-11-02 02:52   MEDIUM (score 30)
+16.53 Million URL:LOG:PASS Credential Logs Shared as Private Fresh Base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:52
+  UUID                  ce344bae-7f9f-4c73-a0c7-9b9d1ce530e1
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-16-53-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread title advertises a 16.53 million line URL:LOG:PASS credential
+                        collection, described as private, UHQ and a fresh new base. The post body is
+                        unavailable, so no victim, delivery method, or validation details can be
+                        confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#88   2026-11-02 02:50   MEDIUM (score 30)
+20.76 Million URL:LOGIN:PASS Credential Logs Shared as Fresh Private Base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:50
+  UUID                  ba7b362c-9770-4f1f-9f31-bc607f97b600
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-20-76-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               ZoneX404 posts a thread advertising about 20.76 million URL:LOGIN:PASS
+                        entries described as a private, fresh, ultra-high-quality (UHQ) base. The
+                        body only contains decorative letters spelling FRESH UHQ ULP LOG and no
+                        download details, victim, or sample data are provided.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#89   2026-11-02 02:50   MEDIUM (score 30)
+21.72 million URL:LOG:PASS credential lines shared as fresh private base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:50
+  UUID                  18ea15f5-b418-4cdc-a552-845f92c25f98
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-21-72-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               ZoneX404 advertises a 21.72 million line URL:LOG:PASS credential collection,
+                        described as private, UHQ and a fresh new base. The post body contains only
+                        decorative lettering (FRESH UHQ ULP LOG) with no named victim, download
+                        details, or validation evidence.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#90   2026-11-02 02:50   MEDIUM (score 30)
+16.75 Million URL:LOG:PASS Credential Logs Shared as Fresh Private Base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:50
+  UUID                  d4f87251-316f-4f40-a83a-f605f400ba9b
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-16-75-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread advertises a 16.75 million entry URL:LOG:PASS credential log
+                        collection described as private, fresh and UHQ (ultra high quality). The
+                        body contains only decorative lettering with no victim, download details or
+                        sample, so the claims are unverified.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#91   2026-11-02 02:49   MEDIUM (score 30)
+17.93 million URL:login:password credential log base shared
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:49
+  UUID                  1583b3a0-d981-4585-8c82-69ff9e5c0257
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-17-93-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread title advertises a private UHQ base of 17.93 million URL:LOG:PASS
+                        entries described as fresh. The post body contains only decorative lettering
+                        (FRESH UHQ ULP LOG) with no named victim, sample, or download details.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#92   2026-11-02 02:49   MEDIUM (score 30)
+19.53 Million URL:LOGIN:PASS Credential Logs Shared as Private UHQ Fresh Base
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:49
+  UUID                  1bc09643-1f78-4bd6-b154-ffa0f730ad5f
+  Actors                ZoneX404
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-%E2%9C%A8-19-53-MILLION-URL-LOG-PASS-%E2%9C%A8-PRIVATE-UHQ-%E2%9C%A8-FRESH-NEW-BASE-ENJOY-%E2%9C%A8
+  Preview               The thread by ZoneX404 advertises a 19.53 million-line URL:LOG:PASS
+                        credential log collection described as private, UHQ and a fresh new base.
+                        The post body contains only decorative lettering (FRESH UHQ ULP LOG) and
+                        gives no victim, download details, or sample, so the freshness and quality
+                        claims are unverified.
+  Actor credits         0
+  Actor joined          Jun 2025
+  Actor posts           1.427
+  Actor rank            TG: @mr_anony404
+  Actor reactions       1.949
+  Actor reputation      44
+  Actor threads         1.419
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#96   2026-11-02 02:27   LOW (score 10)
+X516 HOTMAIL MAIL ACCESS + X246 MIX MAIL ACCESS
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:27
+  UUID                  c08bcd25-650c-41e0-98a9-ae9310f50f44
+  Actors                ciasty
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-X516-HOTMAIL-MAIL-ACCESS-X246-MIX-MAIL-ACCESS--2180393
+  Preview               The thread is titled X516 HOTMAIL MAIL ACCESS + X246 MIX MAIL ACCESS. The
+                        source post did not provide enough extractable detail for a verified
+                        summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#100   2026-11-02 01:52   LOW (score 10)
+[URL:LOG:PASS] 1.000.000 HQ ULP - GOOD FOR ANY TARGET
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:52
+  UUID                  58675f61-f081-4d06-988b-b8524b3f08ae
+  Actors                CCRON
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Info Stealers Logs
+  URL                   hxxps://darknetarmy[.]st/threads/url-log-pass-1-000-000-hq-ulp-good-for-any-target.213966/
+  Preview               The thread is titled [URL:LOG:PASS] 1.000.000 HQ ULP - GOOD FOR ANY TARGET.
+                        The source post did not provide enough extractable detail for a verified
+                        summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#101   2026-11-02 01:51   MEDIUM (score 30)
+1,000,000 URL:login:password (ULP) credential lines shared for any target
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:51
+  UUID                  ee115d6b-6489-4559-99ee-4cc521e56d15
+  Actors                CCRON
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-URL-LOG-PASS-1-000-000-HQ-ULP-GOOD-FOR-ANY-TARGET--2180382
+  Preview               The thread title advertises a list of 1,000,000 high-quality URL:LOG:PASS
+                        (ULP) credential entries described as good for any target. The post body is
+                        unavailable, so no victim, source, or delivery details can be confirmed.
+  Actor credits         0
+  Actor joined          Aug 2022
+  Actor posts           1.229
+  Actor rank            Contributor
+  Actor reactions       617
+  Actor reputation      30
+  Actor threads         700
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#102   2026-11-02 01:51   MEDIUM (score 30)
+1,000,000 High-Quality URL:Login:Password Logs Offered
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:51
+  UUID                  50f7c933-f618-41b6-b1f3-b4800f71bdce
+  Actors                CRON
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Combolists & Dumps
+  URL                   hxxps://crackingx[.]com/threads/102463/
+  Preview               The actor CRON advertises 1,000,000 high-quality URL:Login:Password logs for
+                        sale or distribution. The post directs interested parties to a Telegram
+                        channel (t[.]me/CronCloud) for acquisition, with claims that the logs are
+                        suitable for credential-stuffing attacks against any target.
+  Actor joined          7 Oct 2026
+  Actor points          77
+  Actor posts           0
+  Actor rank            Newbie
+  Actor reactions       1,606
+  Screenshot available  true
+  Screenshot count      1
+
+#104   2026-11-02 01:18   LOW (score 10)
+1.7k Mix lines | Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:18
+  UUID                  0be474ac-0c07-4c82-bdc2-2d30be13c68e
+  Actors                WhiteMelly
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 SSH RDP cPanel SMTP Logins
+  URL                   hxxps://darknetarmy[.]st/threads/1-7k-mix-lines-mail-access.213954/
+  Preview               The thread is titled 1.7k Mix lines | Mail Access. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#105   2026-11-02 01:18   LOW (score 10)
+700 Hotmail lines | Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:18
+  UUID                  1a7c0b2a-dd30-4fc6-881b-e1bb877a3e72
+  Actors                WhiteMelly
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 SSH RDP cPanel SMTP Logins
+  URL                   hxxps://darknetarmy[.]st/threads/700-hotmail-lines-mail-access.213955/
+  Preview               The thread is titled 700 Hotmail lines | Mail Access. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#107   2026-11-02 01:15   LOW (score 10)
+1.7k Mixed Credential Lines with Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:15
+  UUID                  edbb7454-7e06-4923-9383-f8b8363f7096
+  Actors                WhiteMelly
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-1-7k-Mix-lines-Mail-Access
+  Preview               The thread is titled 1.7k Mix lines | Mail Access. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Actor credits         0
+  Actor joined          Jan 2025
+  Actor posts           1.125
+  Actor rank            guns[.]lol/hoodmails
+  Actor reactions       1.647
+  Actor reputation      45
+  Actor threads         1.018
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#108   2026-11-02 01:14   LOW (score 10)
+700 Hotmail Email:Password Credentials with Mail Access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:14
+  UUID                  e0aa8e09-912e-4fc7-84db-bb8fd88d52ad
+  Actors                WhiteMelly
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-700-Hotmail-lines-Mail-Access--2180367
+  Preview               The actor offers 700 Hotmail email:password credential pairs claimed to have
+                        active mail access. The post invites engagement through reputation and like
+                        mechanics typical of credential marketplace activity.
+  Actor credits         0
+  Actor joined          Jan 2025
+  Actor posts           1.125
+  Actor rank            guns[.]lol/hoodmails
+  Actor reactions       1.647
+  Actor reputation      45
+  Actor threads         1.018
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#110   2026-11-02 01:03   LOW (score 16)
+87k MIX MAIL ACCESS
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:03
+  UUID                  ba6aa0a3-e126-4f78-abde-c3227d725041
+  Actors                Cl0ud0wner
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 LeakForum
+  Forum domain          leakforum[.]io
+  Forum code            LF
+  Board                 Cloud Logs
+  URL                   hxxps://leakforum[.]io/Thread-Leak-%E2%AD%90%EF%B8%8F87k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F--37599
+  Preview               The thread is titled 87k MIX MAIL ACCESS. The source body was unavailable or
+                        contained insufficient extractable details; further claims cannot be
+                        confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#111   2026-11-02 01:03   LOW (score 16)
+87k MIX MAIL ACCESS
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:03
+  UUID                  29423e5b-a02b-4546-8c79-92705af8d3d6
+  Actors                Cl0ud0wner
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 LeakForum
+  Forum domain          leakforum[.]io
+  Forum code            LF
+  Board                 Combolist
+  URL                   hxxps://leakforum[.]io/Thread-Leak-%E2%AD%90%EF%B8%8F87k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F
+  Preview               The thread is titled 87k MIX MAIL ACCESS. The source body was unavailable or
+                        contained insufficient extractable details; further claims cannot be
+                        confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#113   2026-11-02 00:57   LOW (score 16)
+87k Mixed Mail Access Credentials
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:57
+  UUID                  225744f6-111d-4ee6-9493-b690590d2bcf
+  Actors                Cl0ud0wner
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-%E2%AD%90%EF%B8%8F87k-MIX-MAIL-ACCESS%E2%AD%90%EF%B8%8F
+  Preview               Thread bump for a combo list containing 87,000 mixed mail access
+                        credentials. No additional details are provided in the post body.
+  Actor credits         0
+  Actor joined          Jul 2024
+  Actor posts           820
+  Actor rank            Infinity
+  Actor reactions       438
+  Actor reputation      32
+  Actor threads         811
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#116   2026-11-02 00:19   LOW (score 10)
+2.4k Hotmail and mixed email credentials with valid mail access
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:19
+  UUID                  b9f5cefc-be29-4999-bae1-668e05b24d34
+  Actors                DevelMakss
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-Email-Pass-2-4k-%E2%9C%A8-HOTMAIL-MIX-VALID-MAIL-ACCESS-%E2%9C%A8
+  Preview               The actor is bumping a thread offering 2,400 Hotmail and mixed email
+                        credentials claimed to have valid mail access. No additional technical
+                        details, validation method, or specifics are provided in the visible post
+                        body.
+  Actor credits         0
+  Actor joined          Oct 2023
+  Actor posts           944
+  Actor rank            hxxps://red[.]develmakss[.]site
+  Actor reactions       1.893
+  Actor reputation      48
+  Actor threads         805
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#118   2026-11-02 00:00   LOW (score 22)
+145K email:password combo list claimed freshly dumped
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:00
+  UUID                  0b92ad46-b9e4-4d43-9fee-189316c446cd
+  Actors                ZEWS
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-%E2%AD%90145K%E2%AD%90MAIL-PASS-FRESHLY-DUMPED-%E2%9A%A1ULTRA-HIGH-QUALITY%E2%9A%A1
+  Preview               Actor ZEWS advertises a combo list of 145,000 email:password credentials
+                        claimed to be freshly dumped and of ultra-high quality. No additional
+                        details regarding target platform, validation method, or source are
+                        available.
+  Actor credits         7
+  Actor joined          Nov 2021
+  Actor posts           263
+  Actor rank            Godlike
+  Actor reactions       2.398
+  Actor reputation      468
+  Actor threads         259
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#119   2026-11-02 00:00   LOW (score 22)
+290K email:password credentials for FedEx and Discord
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:00
+  UUID                  942544bc-cf45-4a43-97a0-7934072fd186
+  Actors                ZEWS
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-%E2%AD%90290K%E2%AD%90-MAIL-PASS-FEDEX-DISCORD-%E2%9A%A1BY-ZEWS%E2%9A%A1
+  Preview               Actor ZEWS advertises a combo list containing 290,000 email:password
+                        credential pairs targeting FedEx and Discord services. No post body content
+                        is available to confirm validation status, freshness, or delivery method.
+  Actor credits         7
+  Actor joined          Nov 2021
+  Actor posts           263
+  Actor rank            Godlike
+  Actor reactions       2.398
+  Actor reputation      468
+  Actor threads         259
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+#120   2026-11-02 00:00   LOW (score 22)
+310k Gaming Account Credentials (Roblox, Uplay, PSN, Xbox)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:00
+  UUID                  1699d8db-df76-4b7b-86f6-fc25ee77ef59
+  Actors                ZEWS
+  Victim                Unknown
+  Country               Unknown
+  Sector                Gaming
+  Victim site           Unknown
+  Data type             Credentials
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Combolists
+  URL                   hxxps://cracked[.]st/Thread-%E2%AD%90310k%E2%AD%90-MAIL-PASS-GAMING-ROBLOX-UPLAY-PSN-XBOX-%E2%9A%A1BY-ZEWS%E2%9A%A1
+  Preview               The actor ZEWS offers a combo list of approximately 310,000 email:password
+                        credentials targeting multiple gaming platforms including Roblox, Uplay,
+                        PSN, and Xbox. The post does not provide additional details on freshness,
+                        validation status, or delivery method.
+  Actor credits         7
+  Actor joined          Nov 2021
+  Actor posts           263
+  Actor rank            Godlike
+  Actor reactions       2.398
+  Actor reputation      468
+  Actor threads         259
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      1
+
+====================================================================================================
+DATA BREACH — 23 incidents
+====================================================================================================
+
+#7   2026-11-02 07:19   CRITICAL (score 90)
+Alleged sale of 335 million Binance user records including KYC data and private keys
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:19
+  UUID                  e777f314-3ece-494b-ae8b-7d01d6429833
+  Actors                ShinyHunters
+  Victim                Binance
+  Country               Unknown
+  Sector                Cryptocurrency Exchange
+  Victim site           binance[.]com
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17909
+  Preview               ShinyHunters threat actor claims to be selling 335.9 million verified user
+                        records stolen from Binance cryptocurrency exchange. Alleged data includes
+                        user KYC information (ID cards/passports), account passwords, email
+                        addresses, phone numbers, transaction history, personal identification,
+                        crypto assets in hot wallets, internal infrastructure information, and
+                        private wallet keys. Threat actor is demanding $900,000 USD in XMR/BTC with
+                        explicit pay or leak ultimatum. Sample data reportedly availabl…
+  Screenshot available  true
+  Screenshot count      1
+
+#10   2026-11-02 07:17   CRITICAL (score 90)
+Alleged breach of Binance cryptocurrency exchange - 335 million user records with KYC data and
+private keys
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:17
+  UUID                  34b90705-5f47-4b1b-8b2f-6f56c8788554
+  Actors                ShinyHunters
+  Victim                Binance
+  Country               Malta
+  Sector                Cryptocurrency Exchange
+  Victim site           binance[.]com
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17902
+  Preview               ShinyHunters threat actor claims to have compromised Binance, the worlds
+                        largest cryptocurrency exchange, and is offering 335.9 million verified user
+                        records for sale at $900k USD. The alleged dataset includes user KYC data
+                        (ID cards/passports), account passwords, email addresses, phone numbers,
+                        transaction history, personal identification, crypto assets in Binances hot
+                        wallet, internal infrastructure information, and private key wallets. The
+                        threat actor claims this represents users from approx…
+  Screenshot available  true
+  Screenshot count      1
+
+#11   2026-11-02 07:17   CRITICAL (score 75)
+Alleged data breach of Compass[.]com with full admin panel access and billions of customer records
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:17
+  UUID                  9109cdd2-bc09-4935-8c9f-492ae4fc30fa
+  Actors                ShinyHunters
+  Victim                Compass[.]com
+  Country               USA
+  Sector                Real Estate Technology
+  Victim site           compass[.]com
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17824
+  Preview               Threat actor ShinyHunters is offering full administrative access to
+                        Compass[.]com (US real estate technology company, $7B market cap) including
+                        admin panel, user accounts, Okta, Stripe, Zendesk, Salesforce, and GitHub
+                        access. The breach includes access to internal networks and billions of data
+                        points across multiple databases (Mongo, PostgreSQL). Data includes over 1.5
+                        million customer records, Zendesk technical support system data, Slack
+                        channel data, and Asana/GitHub accounts. Seller is requesti…
+  Screenshot available  true
+  Screenshot count      1
+
+#12   2026-11-02 07:16   CRITICAL (score 85)
+Alleged Santander Bank data breach affecting Spain, Chile, and Uruguay - 30 million customer records
+and 28 million credit card numbers
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:16
+  UUID                  04effdb5-c2d2-413c-acf9-248b2f92b32a
+  Actors                SH
+  Victim                Santander Bank
+  Country               Spain, Chile, Uruguay
+  Sector                Financial Services
+  Victim site           santander[.]com
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17810
+  Preview               Threat actor claiming to have compromised Santander Bank data across Spain,
+                        Chile, and Uruguay. The alleged breach includes 30 million customer records,
+                        6 million account numbers with balances, 28 million complete credit card
+                        numbers with CVV and expiration dates, HR employee lists, and consumer
+                        citizenship information. Data is being offered for sale at $8,000. Contact
+                        information provided includes XMPP address and onionmail email.
+  Screenshot available  true
+  Screenshot count      2
+
+#13   2026-11-02 07:16   HIGH (score 67)
+Alleged sale of 120,000 Gold Buyers records from FrancePremium (goldunion[.]fr)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:16
+  UUID                  7b168810-6475-4e77-9e2b-975949057f1c
+  Actors                SH
+  Victim                FrancePremium / goldunion[.]fr
+  Country               France
+  Sector                Precious Metals / Gold Trading
+  Victim site           goldunion[.]fr
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17804
+  Preview               Threat actor SH is offering a database of 120,000 gold buyers/sellers from
+                        France for $2,000 USD. The dataset allegedly contains sensitive personally
+                        identifiable information including names, emails, phone numbers, home
+                        addresses, and ID documents (passports). Transaction records feature
+                        pricing, estimated weights, and links to photos of gold items and
+                        signatures. The entire dataset is priced at $50,000 USD, with the $2,000
+                        offering representing a partial sample.
+  Screenshot available  true
+  Screenshot count      1
+
+#14   2026-11-02 07:15   CRITICAL (score 85)
+Alleged data breach of Loblaw and multiple Canadian organizations affecting 75.1 million customers
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:15
+  UUID                  e866e2c1-b025-46bd-98b0-55c3a44fb364
+  Actors                SH
+  Victim                Loblaw Companies Limited, Canada Computers, Freedom Mobile, WestJet, Alberta
+                        Elections
+  Country               Canada
+  Sector                Retail, Telecommunications, Airlines, Government
+  Victim site           loblaw[.]ca, canadacomputers[.]com, freedommobile[.]ca, westjet[.]com
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17783
+  Preview               Threat actor SH is selling a comprehensive data breach package containing
+                        79M+ files totaling 80GB from multiple Canadian organizations. Primary
+                        victim is Loblaw (75.1M customers, 40GB CSV files) containing full names,
+                        email addresses, phone numbers, customer IDs, loyalty account information,
+                        and internal documents. Package also includes breaches of Canada Computers
+                        (1,284 records), Freedom Mobile (15,000 records), WestJet (1.2M passengers),
+                        and Alberta Voter Registry (2.9M voters). Seller claim…
+  Screenshot available  true
+  Screenshot count      1
+
+#15   2026-11-02 07:14   CRITICAL (score 70)
+Alleged 21Bitcoin crypto leads breach data offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:14
+  UUID                  f1c5d495-e31e-4b6c-a89a-07bc0c3efc22
+  Actors                Fernandezz
+  Victim                21Bitcoin
+  Country               Unknown
+  Sector                Cryptocurrency
+  Victim site           Unknown
+  Data type             Personal Data
+  Network               openweb
+  URL                   hxxps://raidforums[.]im/Thread-SELLING-21Bitcoin-Crypto-Leads-2026-Breach-Data
+  Preview               The actor offers a 2026 breach dataset tied to 21Bitcoin, labeled worldwide,
+                        and directs buyers to DM @leadsfty to order. The listed file header includes
+                        full name, email, phone number, country, date of birth, device details,
+                        account status, account balance and support subject. No record count or
+                        price is given.
+  Actor joined          Nov 2026
+  Actor posts           1
+  Actor rank            Member
+  Actor reputation      0
+  Actor threads         1
+  Screenshot available  true
+  Screenshot count      1
+
+#16   2026-11-02 07:09   HIGH (score 65)
+Alleged sale of 153M+ verified US/Canadian drivers licenses by ShinyHunters affecting major
+corporations
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:09
+  UUID                  68bd2281-a4e6-46d6-b525-281319e1bb46
+  Actors                ShinyHunters
+  Victim                Multiple (Shell, AMC Theaters, DraftKings, FedEx, Hertz, Chevrolet,
+                        GameStop, Jack Henry, Polaris, Simmons Bank, LendingUSA, Circa Resort &
+                        Casino, Planet 13, Rouses Market, US Coast Guard Academy, Caesars
+                        Entertainment, Motorola)
+  Country               United States, Canada
+  Sector                Multiple sectors (energy, entertainment, financial services, automotive,
+                        retail, government)
+  Victim site           Unknown
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17740
+  Preview               ShinyHunters threat actor is selling a dataset of 153+ million verified US
+                        and Canadian drivers licenses obtained via exploit. The data includes ID
+                        cards and drivers licenses verified through IDScan[.]net. Multiple major
+                        companies are listed as affected including Shell, AMC Theaters, DraftKings,
+                        FedEx, Hertz, Chevrolet, GameStop, Caesars Entertainment, and others. The
+                        threat actor claims the data was hacked by Databroker1 via an exploit forum.
+                        Contact information and negotiable pricing provided.
+  Screenshot available  true
+  Screenshot count      1
+
+#17   2026-11-02 07:09   CRITICAL (score 90)
+Alleged data breach of Odido NL - 15M+ customer records leaked
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:09
+  UUID                  b2e0fe73-129e-4ec8-bcee-52128c9483de
+  Actors                ShinyHunters
+  Victim                Odido NL
+  Country               Netherlands
+  Sector                Telecommunications
+  Victim site           odido[.]nl
+  Network               telegram
+  URL                   hxxps://t[.]me/c/3500620464/17734
+  Preview               ShinyHunters group claims to have compromised over 15 million Salesforce
+                        records from Odido NL and Ben[.]nl (Dutch telco). Leaked data includes full
+                        names, physical addresses, email addresses, phone numbers, plaintext
+                        passwords, IBAN numbers, passport numbers, driver license numbers, and
+                        internal corporate data. Dataset size reported as 88GB+ uncompressed. Data
+                        made available for free download.
+  Screenshot available  true
+  Screenshot count      1
+
+#26   2026-11-02 06:40   CRITICAL (score 85)
+Alleged data breach involving CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:40
+  UUID                  7512a92e-54ba-4c16-930b-ede8cad2e4b4
+  Actors                HSRgroup
+  Victim                CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)
+  Country               Brazil
+  Sector                Education
+  Victim site           capes[.]gov[.]br
+  Data type             Personal Data
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Unverified Sellers Marketplace
+  URL                   hxxps://darknetarmy[.]st/threads/br-sso-capes-gov-br-email-4m-phone-number-4m-bank-details-1m.213931/
+  Preview               HSRgroup claims to be selling data from sso[.]capes[.]gov[.]br, the single
+                        sign-on portal of CAPES, a Brazilian federal agency under the Ministry of
+                        Education that funds and evaluates graduate programs. The listing cites over
+                        4 million emails and phone numbers and over 1 million bank detail records,
+                        priced at $5,000 in XMR/BTC (negotiable). Contact is via two Session IDs,
+                        and the post asks only serious buyers to reach out.
+  Actor joined          October 30, 2026
+  Actor points          0
+  Actor posts           4
+  Actor rank            New Member
+  Actor reactions       0
+  Screenshot available  true
+  Screenshot count      1
+
+#28   2026-11-02 06:39   HIGH (score 65)
+Actor requests databases containing Philippine PhilSys IDs
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:39
+  UUID                  42d7cad4-f473-4930-9137-edc164eb0868
+  Actors                proton128907342
+  Victim                Which set of databases would contain PH/Philsys IDs
+  Country               Philippines
+  Sector                Government
+  Victim site           Unknown
+  Data type             Personal Data
+  Network               tor
+  Forum                 PwnForums
+  Forum domain          pwnforums[.]st
+  Forum code            PF
+  Board                 Databases
+  URL                   hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-DATABASE-Which-set-of-databases-would-contain-PH-Philsys-ID-s
+  Preview               A forum user asks which databases would contain Philippine PhilSys national
+                        ID data. The author says they are primarily looking for databases from the
+                        Philippines and wider Asia region. No dataset, victim, or sale is offered;
+                        this is a data request.
+  Actor joined          Nov 2026
+  Actor posts           2
+  Actor rank            Member
+  Actor reputation      0
+  Actor threads         1
+  Screenshot available  true
+  Screenshot count      1
+
+#31   2026-11-02 06:20   HIGH (score 50)
+Chinese commercial business registry database offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:20
+  UUID                  f37792df-3674-4717-b3bf-d0d22c5b7f04
+  Actors                samleego
+  Victim                Tianyancha
+  Country               China
+  Sector                Unknown
+  Victim site           tianyancha[.]com
+  Data type             Database Dump
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Unverified Sellers Marketplace
+  URL                   hxxps://darknetarmy[.]st/threads/chinese-commercial-database-for-sale.213630/
+  Preview               The seller samleego offers a Chinese commercial/business registration
+                        database for sale and lists Telegram @samleego as the contact. The sample
+                        shows company name, legal representative, mobile number, email, registered
+                        address, registered capital, business scope, credit code and Tianyancha
+                        search links. Records cover businesses in provinces such as Jiangsu,
+                        Zhejiang, Hubei and Henan, with timestamps from February 2021. No total
+                        record count or price is given.
+  Actor joined          October 14, 2026
+  Actor points          3
+  Actor posts           14
+  Actor rank            Member
+  Actor reactions       3
+  Screenshot available  true
+  Screenshot count      1
+
+#32   2026-11-02 06:19   HIGH (score 62)
+Alleged Poland STAT database with 200K personal records offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:19
+  UUID                  829f669c-653a-4c09-9a16-631605f17f64
+  Actors                samleego
+  Victim                Hotmail
+  Country               Poland
+  Sector                Unknown
+  Victim site           hotmail[.]com
+  Data type             Personal Data
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Unverified Sellers Marketplace
+  URL                   hxxps://darknetarmy[.]st/threads/poland-stat-database-200k.213819/
+  Preview               The seller samleego advertises a Poland STAT Database of about 200K records
+                        and directs buyers to Telegram @samleego. The sample lists full name, birth
+                        date, gender, nationality, address, email and phone number, but the sample
+                        entries are mostly Portuguese contacts with PT, GB, BE and CH addresses, so
+                        the Poland attribution is unclear. No victim organization is named.
+  Actor joined          October 14, 2026
+  Actor points          3
+  Actor posts           14
+  Actor rank            Member
+  Actor reactions       3
+  Screenshot available  true
+  Screenshot count      1
+
+#33   2026-11-02 06:14   CRITICAL (score 85)
+Sale of PACS medical dataset with 6.47M radiology examination records and 205K diagnostic reports
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:14
+  UUID                  05560965-3080-4883-9296-3a72f31c486a
+  Actors                ShadowByteone
+  Victim                Gofile
+  Country               Unknown
+  Sector                Healthcare
+  Victim site           gofile[.]io
+  Data type             Medical Records
+  Network               openweb
+  Forum                 BreachForums
+  Forum domain          breached[.]hn
+  Forum code            BF3
+  Board                 Leaks Market
+  URL                   hxxps://bf[.]st/Thread-SELLING-Medical-data-including-6-million-examination-records-200-000-full-text-diagnostic
+  Preview               The actor offers PACS data from multiple healthcare institutions worldwide,
+                        comprising 6.47 million radiology examination records and 205,000 full-text
+                        diagnostic reports covering roughly 2.98-3.14 million unique patients.
+                        Fields include medical record numbers, names, dates of birth, genders,
+                        examination sites/modalities/dates and attending physician details. A gofile
+                        sample link and a contact session ID are provided, with pricing available on
+                        inquiry.
+  Actor joined          Oct 2026
+  Actor posts           1
+  Actor rank            Member
+  Actor reputation      0
+  Actor threads         1
+  Screenshot available  true
+  Screenshot count      1
+
+#36   2026-11-02 05:54   MEDIUM (score 35)
+Создаю базу OSINT по Тайваню - ищу соавторов
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:54
+  UUID                  3f0f0dfc-833b-4477-9b94-490897930ee5
+  Actors                hgpm
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Spear
+  Forum domain          spear[.]cx
+  Forum code            SP
+  Board                 Databases
+  URL                   hxxps://spear[.]cx/Thread-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E-%D0%B1%D0%B0%D0%B7%D1%83-OSINT-%D0%BF%D0%BE-%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8E-%D0%B8%D1%89%D1%83-%D1%81%D0%BE%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B2--3207
+  Preview               The thread is titled Создаю базу OSINT по Тайваню - ищу соавторов. The
+                        source body was unavailable or contained insufficient extractable details;
+                        further claims cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#42   2026-11-02 05:33   MEDIUM (score 35)
+LOGS (FRESH) 3.3GB FROM 02-11-2026
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:33
+  UUID                  efe6197c-a9ba-4cea-8d02-1371a7a906fd
+  Actors                cloudmarketpro
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 Altenens
+  Forum domain          altenens[.]is
+  Forum code            AE
+  Board                 Leaked Databases
+  URL                   hxxps://altenens[.]is/threads/logs-fresh-3-3gb-from-02-11-2026.3049298/unread
+  Preview               The thread is titled LOGS (FRESH) 3.3GB FROM 02-11-2026. The source body was
+                        unavailable or contained insufficient extractable details; further claims
+                        cannot be confirmed.
+  Screenshot available  true
+  Screenshot count      1
+
+#47   2026-11-02 05:18   CRITICAL (score 70)
+Alleged sale of FBI intelligence personnel database with PII and passwords
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:18
+  UUID                  1cd866f8-9815-4cd7-be5e-ae9e2705fcc8
+  Actors                PixelVoid
+  Victim                Federal Bureau of Investigation
+  Country               USA
+  Sector                Government
+  Victim site           fbi[.]gov
+  Data type             Personal Data
+  Network               openweb
+  Forum                 Breached
+  Forum domain          breached[.]st
+  Forum code            BF2
+  URL                   hxxps://breached[.]st/threads/personnel-database-complete-pii-credentials.89665/unread
+  Preview               The actor PixelVoid offers a database allegedly covering FBI intelligence
+                        personnel, linking professional ranks and job details with full names, home
+                        addresses, direct phone numbers, email addresses and active passwords. The
+                        sale is described as exclusive and single-source with no samples provided;
+                        buyers are directed to DM or Telegram contacts (@ImmarV03, @SELINA_DATA0101,
+                        @LU_JAIN_X21). The claim is unverified and no record count or price is
+                        stated.
+  Actor rank            Citizen
+  Screenshot available  true
+  Screenshot count      1
+
+#55   2026-11-02 04:41   HIGH (score 50)
+Alleged data breach involving What do I do?? How do I runaway???
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:41
+  UUID                  613058b1-4daf-4662-8d4f-305d766a1026
+  Actors                JustALocalPerson72 🍼
+  Victim                What do I do?? How do I runaway???
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Personal Data
+  Network               tor
+  Forum                 Dread
+  URL                   hxxps://dreadohblesmagfagqup24vw7catlvmqhhce5itz7wxr4vffgemjzaad[.]onion/post/6167d2230bbb52ce5a57
+  Preview               A self-described 17-year-old in US foster care says a single undeleted
+                        Discord account led police to obtain a warrant for one of their phones. They
+                        report having $300 cash and no place to stay, and ask the community for
+                        advice on evading arrest or deportation. This is a personal discussion post
+                        with no specific attack, victim, or sale.
+  Screenshot available  true
+  Screenshot count      1
+
+#67   2026-11-02 04:04   CRITICAL (score 70)
+Karimun Regency Government workforce database allegedly offered for sale (7,773 active employees)
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:04
+  UUID                  88298ac7-0084-450d-825f-1170fd237651
+  Actors                just_R
+  Victim                Karimun Regency Government
+  Country               Indonesia
+  Sector                Government
+  Victim site           gmail[.]com
+  Data type             Personal Data
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Databases
+  URL                   hxxps://darkforums[.]as/showthread.php?tid=121336
+  Preview               The actor is selling a database of Karimun Regency Government employees,
+                        covering 7,773 active staff and 471 approaching retirement. Listed fields
+                        include name, NIP, birth place/date, gender, religion, marital status,
+                        address, phone and email, plus rank, position and work unit data. A
+                        100-entry sample is provided as proof of validity.
+  Actor joined          Aug 2026
+  Actor posts           38
+  Actor rank            Members
+  Actor reputation      28
+  Actor threads         32
+  Screenshot available  true
+  Screenshot count      1
+
+#71   2026-11-02 03:45   MEDIUM (score 47)
+900k emails data crypto
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:45
+  UUID                  5d470720-06a3-42c0-a695-8b91dad59f62
+  Actors                Cohd3
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Databases
+  URL                   hxxps://darkforums[.]as/Thread-DATABASE-900k-emails-data-crypto--121335
+  Preview               The actor claims a data breach involving the named organization. Claimed
+                        fields include email addresses.
+  Screenshot available  true
+  Screenshot count      1
+
+#76   2026-11-02 03:22   MEDIUM (score 47)
+900k emails data crypto
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:22
+  UUID                  3e800605-fe0b-473b-8c4e-270ae7993cfc
+  Actors                Cohd3
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Databases
+  URL                   hxxps://darkforums[.]as/showthread.php?tid=121330
+  Preview               The actor claims a data breach involving the named organization. Claimed
+                        fields include email addresses.
+  Screenshot available  true
+  Screenshot count      1
+
+#106   2026-11-02 01:16   HIGH (score 65)
+Alleged data breach involving Phonelyne
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:16
+  UUID                  c86cc827-f29d-4a8a-9c00-1caf58cd308f
+  Actors                Tolstoy
+  Victim                Phonelyne
+  Country               Unknown
+  Sector                Telecommunications
+  Victim site           phonelyne[.]com
+  Data type             Personal Data
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Databases
+  URL                   hxxps://darkforums[.]as/showthread.php?tid=121326
+  Preview               The actor Tolstoy posts a database sample allegedly from Phonelyne
+                        (phonelyne[.]com), an eSIM provider, with the title referencing UK-USA full
+                        data. The sample is said to include emails, passwords, phone numbers and
+                        IDs, but the download is hidden behind a reply wall and no record count or
+                        price is given.
+  Actor joined          Aug 2026
+  Actor posts           8
+  Actor rank            Members
+  Actor reputation      1
+  Actor threads         3
+  Screenshot available  true
+  Screenshot count      1
+
+#109   2026-11-02 01:07   HIGH (score 65)
+Root SSH, admin panel and patient data access to Hospital San Juan de Dios (San Fernando, Chile)
+offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:07
+  UUID                  55c80d80-8de8-415e-bd4f-061483002ff7
+  Actors                Kollector
+  Victim                Hospital San Juan de Dios, San Fernando
+  Country               Chile
+  Sector                Healthcare
+  Victim site           pixelvault[.]fun
+  Data type             Medical Records
+  Network               tor
+  Forum                 PwnForums
+  Forum domain          pwnforums[.]st
+  Forum code            PF
+  Board                 Access Market
+  URL                   hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-Hospital-San-Juan-de-Dios-San-Fernando-FULL-root-Panel-Access
+  Preview               The actor offers full SSH root access to Hospital San Juan de Dios in San
+                        Fernando, Chile. The package includes hospital admin portal credentials
+                        (reachable via SOCKS5), WHM/cPanel access, and MySQL access to 39 databases
+                        totaling 96GB. It also includes 374 employee email names with bcrypt hashes
+                        and 207k files (47GB) of patient PII, such as name, RUT, DOB, clinical
+                        record, and diagnosis. Samples are provided and buyers are asked to PM for
+                        offers.
+  Actor joined          Nov 2026
+  Actor posts           1
+  Actor rank            Member
+  Actor reputation      0
+  Actor threads         1
+  Screenshot available  true
+  Screenshot count      1
+
+====================================================================================================
+ACCOUNTS — 20 incidents
+====================================================================================================
+
+#4   2026-11-02 07:23   LOW (score 10)
+Account and subscription upgrade offerings for Netflix, Gemini, ChatGPT and Claude
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:23
+  UUID                  704d8cbf-8510-43bd-b3af-ebcb1bb352d1
+  Actors                Leonine
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Products
+  URL                   hxxps://cracked[.]st/Thread-%E2%9A%A1-Accounts-Upgrades-Hub-%E2%9A%A1-Netflix-Gemini-ChatGPT-Claude-%E2%AD%90-Top-Platforms--2180493
+  Preview               The thread, posted by Leonine in the Cracked products section, advertises an
+                        accounts and upgrades hub covering popular platforms such as Netflix,
+                        Gemini, ChatGPT and Claude. The body contains only the text Gradon Accounts,
+                        so no pricing, quantities or delivery details are provided.
+  Actor credits         0
+  Actor joined          Nov 2023
+  Actor posts           286
+  Actor rank            Premium Member
+  Actor reactions       21
+  Actor reputation      3
+  Actor threads         14
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      2
+
+#5   2026-11-02 07:20   LOW (score 10)
+Premium account sales advertised for Netflix, ChatGPT, Claude and Gemini
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:20
+  UUID                  e0b4b024-0bd6-4e01-8c4a-ce67e4437769
+  Actors                Leonine
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Products
+  URL                   hxxps://cracked[.]st/Thread-%E2%9A%A1-Access-Without-Limits-%E2%9A%A1-Netflix-ChatGPT-Claude-Gemini-%E2%AD%90-Your-Premium-Source--2180495
+  Preview               Thread by Leonine in the CR Products section advertises premium accounts for
+                        streaming and AI services including Netflix, ChatGPT, Claude and Gemini. The
+                        body contains only the text Gradon Accounts, so no pricing, quantities, or
+                        sourcing details are provided.
+  Actor credits         0
+  Actor joined          Nov 2023
+  Actor posts           286
+  Actor rank            Premium Member
+  Actor reactions       21
+  Actor reputation      3
+  Actor threads         14
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      2
+
+#6   2026-11-02 07:20   LOW (score 10)
+Premium account hub advertised for Netflix, Cursor, Claude and ChatGPT
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:20
+  UUID                  219536e2-0ebf-4141-8046-54d0d0a8ec37
+  Actors                Leonine
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Products
+  URL                   hxxps://cracked[.]st/Thread-%E2%9A%A1-Accounts-Hub-All-Premium-%E2%9A%A1-Netflix-Cursor-Claude-ChatGPT-%E2%AD%90-Quick-Activation--2180496
+  Preview               The thread title advertises an accounts hub offering premium accounts for
+                        Netflix, Cursor, Claude and ChatGPT with quick activation. The post body
+                        contains only the text Gradon Accounts, so no pricing, quantities, or
+                        account sourcing details are available.
+  Actor credits         0
+  Actor joined          Nov 2023
+  Actor posts           286
+  Actor rank            Premium Member
+  Actor reactions       21
+  Actor reputation      3
+  Actor threads         14
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      2
+
+#8   2026-11-02 07:19   LOW (score 10)
+Seller advertises Claude, ChatGPT, Netflix and Gemini accounts and AI upgrades
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:19
+  UUID                  322d1a41-75c1-4818-8876-f228b502a4ca
+  Actors                Leonine
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Services
+  URL                   hxxps://cracked[.]st/Thread-%E2%9A%A1-Accounts-AI-Upgrades-%E2%9A%A1-Claude-ChatGPT-Netflix-Gemini-%E2%AD%90-Smooth-Access--2180497
+  Preview               The thread by Leonine advertises accounts and upgrades for Claude, ChatGPT,
+                        Netflix and Gemini, promising smooth access. The post body contains only the
+                        text Gradon Accounts with no pricing, quantities, or sourcing details, so no
+                        specific victim or compromise is supported.
+  Actor credits         0
+  Actor joined          Nov 2023
+  Actor posts           286
+  Actor rank            Premium Member
+  Actor reactions       21
+  Actor reputation      3
+  Actor threads         14
+  Actor vouches         0
+  Screenshot available  true
+  Screenshot count      2
+
+#30   2026-11-02 06:20   LOW (score 10)
+Email accounts offered for sale across Gmail, Outlook and Yahoo, business and personal
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:20
+  UUID                  b9b309c6-5f67-4888-b23d-4292e2a7aaf7
+  Actors                BurgerDiplomatSki
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Unverified Sellers Marketplace
+  URL                   hxxps://darknetarmy[.]st/threads/high-quality-reliable-email-accounts.213616/
+  Preview               Looking for reliable email accounts for various purposes? Ive got you
+                        covered. I offer a wide selection of email accounts for sale, including:
+  Actor joined          August 7, 2026
+  Actor points          0
+  Actor posts           1
+  Actor rank            New Member
+  Actor reactions       0
+  Screenshot available  true
+  Screenshot count      1
+
+#34   2026-11-02 06:11   LOW (score 10)
+Five TradingView Premium accounts shared on RaidForums cracked accounts section
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:11
+  UUID                  5d932bf7-16ea-4a9d-a5d0-fea5d0e240ea
+  Actors                foxsunday
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  URL                   hxxps://raidforums[.]im/Thread-X5-TradingView-Premium-Account
+  Preview               Thread by foxsunday titled X5 TradingView Premium Account in the cracked
+                        accounts section, apparently offering five TradingView Premium accounts. The
+                        account details are in hidden content that requires registration or login,
+                        so no credentials or victim breach can be confirmed.
+  Actor joined          Jun 2023
+  Actor posts           279
+  Actor rank            Leet User
+  Actor reputation      1
+  Actor threads         130
+  Screenshot available  true
+  Screenshot count      1
+
+#45   2026-11-02 05:27   LOW (score 10)
+Seller offers 4-character gamertags (4L) at $25 each on OGUser
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 05:27
+  UUID                  f32e0111-565e-48b9-a9cf-f55b7ec53888
+  Actors                EM0TING
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-Cheap-4L%E2%80%99s--1319808
+  Preview               The actor EM0TING is selling 4-letter (4L) gamertags for $25 each and claims
+                        to personally own them rather than proxying. Buyers are directed to Telegram
+                        @DS20003, and the seller says a trusted middleman is accepted.
+  Actor credits         0
+  Actor joined          Nov 2025
+  Actor posts           6
+  Actor rank            Fortune Upgrade
+  Actor reputation      48
+  Actor threads         6
+  Actor vouches         11
+  Screenshot available  true
+  Screenshot count      1
+
+#53   2026-11-02 04:51   LOW (score 10)
+Buyer seeks cute-themed Telegram usernames in the 100-1k range
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:51
+  UUID                  8a872b27-8c42-4dad-80c9-3e4937e15df8
+  Actors                Amane
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-cute--1319804
+  Preview               The author Amane is looking to buy Telegram usernames (@ handles) with a
+                        cute-related theme. The stated budget is around 100-1k. The post also says
+                        the author will always use a middleman (MM) and asks that deals be confirmed
+                        on-site.
+  Actor credits         261
+  Actor joined          Apr 2026
+  Actor posts           30
+  Actor rank            This group is assigned to members who should be made aware o
+  Actor threads         17
+  Screenshot available  true
+  Screenshot count      1
+
+#57   2026-11-02 04:36   LOW (score 10)
+Telegram username @horniness offered for sale on OGUser
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:36
+  UUID                  70674368-c7e4-46e2-aa67-5fba4a03e001
+  Actors                FREAKY Username 🥵 👀
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-FREAKY-Quicksale-User-%F0%9F%A5%B5-%F0%9F%91%80
+  Preview               The seller is offering the Telegram username @horniness on the OGUser
+                        marketplace. No fixed price is given; the seller is taking offers and asks
+                        buyers to make contact on the site or via Telegram with a price.
+  Actor credits         577
+  Actor joined          Jun 2025
+  Actor posts           28
+  Actor rank            Void Upgrade
+  Actor reputation      83
+  Actor threads         20
+  Actor vouches         10
+  Screenshot available  true
+  Screenshot count      1
+
+#58   2026-11-02 04:35   LOW (score 10)
+Telegram semi-OG username @judgable offered for sale at a low price
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:35
+  UUID                  944043af-975c-4d54-b77b-1a0d6411f6d8
+  Actors                QUICKSALE Semi User 💸 (CHEAP)
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-QUICKSALE-Semi-User-%F0%9F%92%B8-CHEAP
+  Preview               The seller offers the Telegram handle @judgable, described as a semi-user,
+                        in a quick sale. No fixed price is given; the seller invites offers and says
+                        they will accept a low amount, with contact via the forum or Telegram.
+  Actor credits         577
+  Actor joined          Jun 2025
+  Actor posts           28
+  Actor rank            Void Upgrade
+  Actor reputation      83
+  Actor threads         20
+  Actor vouches         10
+  Screenshot available  true
+  Screenshot count      1
+
+#59   2026-11-02 04:33   LOW (score 10)
+Kick usernames (@ammo, @proud, @strong) offered for sale on OGUser
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:33
+  UUID                  853c374d-82ce-4517-976c-c29f5b8f3342
+  Actors                itch
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-NEW-KICK-LIST
+  Preview               The actor itch is taking offers on a list of Kick handles, including @/ammo,
+                        @/proud and @/strong, with more handles implied. Contact is via Telegram
+                        (t[.]me/itch), and the post links to a stock list.
+  Actor credits         1,460
+  Actor joined          Mar 2023
+  Actor posts           5
+  Actor rank            Solar Upgrade
+  Actor reputation      47
+  Actor threads         15
+  Actor vouches         13
+  Screenshot available  true
+  Screenshot count      1
+
+#84   2026-11-02 03:00   LOW (score 10)
+Sale of crypto-themed YouTube channel handle for $1,000 USDC
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 03:00
+  UUID                  d0833f0c-9a46-47fe-a2f4-493d2eaeda91
+  Actors                VampireSecret
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-The-Only-Crypto-Youtube-ONSITE
+  Preview               The seller lists a crypto-themed YouTube handle or channel in the OG
+                        Usernames section at $1,000 in USDC, with offers under $500 ignored. Contact
+                        is through Telegram and Discord under the handle marketingstunt. The post
+                        body is mostly signature boilerplate promoting OGU subscriptions.
+  Actor credits         831
+  Actor joined          May 2024
+  Actor posts           3,612
+  Actor rank            private party
+  Actor reputation      1,051
+  Actor threads         88
+  Actor vouches         50
+  Screenshot available  true
+  Screenshot count      1
+
+#93   2026-11-02 02:39   LOW (score 10)
+YouTube channel with crypto theme offered for sale at $1,000 USDC on OGUser
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:39
+  UUID                  eca47851-3fe3-478d-acd5-b85e5b61574e
+  Actors                VampireSecret
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-The-Only-Crypto-Final-Youtube-ONSITE
+  Preview               The thread title and body suggest a crypto-themed YouTube channel (The Only
+                        Crypto Final Youtube ONSITE) is being sold for $1,000 USDC. The seller says
+                        offers under 500 will be ignored and lists Telegram and Discord contact
+                        handles (marketingstunt). The post body is mostly signature text and gives
+                        no further details about the channel.
+  Actor credits         831
+  Actor joined          May 2024
+  Actor posts           3,612
+  Actor rank            private party
+  Actor reputation      1,051
+  Actor threads         88
+  Actor vouches         50
+  Screenshot available  true
+  Screenshot count      1
+
+#94   2026-11-02 02:36   LOW (score 10)
+PSN account handle offered for sale on OGUser seeking offers
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:36
+  UUID                  3f4f6481-c737-4158-bed8-eaf11dc9d20a
+  Actors                Chewed
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-PSN-FINAL-FOR-SALE
+  Preview               The author Chewed posted in the OGUser PSNs section offering a PSN
+                        account/handle for sale and asking for offers. The post gives only a partial
+                        hint (o) and the word rep*rted, with no price, quantity, or victim details.
+  Actor credits         0
+  Actor joined          Aug 2024
+  Actor posts           0
+  Actor rank            Fortune Upgrade
+  Actor reputation      18
+  Actor threads         27
+  Actor vouches         3
+  Screenshot available  true
+  Screenshot count      1
+
+#95   2026-11-02 02:27   LOW (score 10)
+95 validated SMTP credentials offered, claimed to reach the inbox as of 02/11/26
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:27
+  UUID                  16da74c6-de19-4425-a698-0827ce3b0577
+  Actors                oussama77oo
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 Cracked
+  Forum domain          cracked[.]st
+  Forum code            CR
+  Board                 Other Leaks
+  URL                   hxxps://cracked[.]st/Thread-Other-95-SMTPS-VALID-AND-HIT-THE-INBOX-JUST-CHECKED-TODAY-02-11-26
+  Preview               The thread title advertises 95 valid SMTP (SMTPS) accounts that the author
+                        says hit the inbox and were checked on 02/11/26. The post body is
+                        unavailable, so no victim, price, or delivery details are supported. The
+                        forum section hint of Data Leak is not backed by any evidence of a specific
+                        victim dataset.
+  Actor credits         0
+  Actor joined          Feb 2022
+  Actor posts           504
+  Actor rank            Contributor
+  Actor reactions       1.077
+  Actor reputation      12
+  Actor threads         246
+  Actor vouches         1
+  Screenshot available  true
+  Screenshot count      1
+
+#99   2026-11-02 02:03   LOW (score 10)
+Lovense OG usernames sold for $20 each, with 1-2 character handles at $10
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 02:03
+  UUID                  2341b997-327b-4520-a578-118fb725deb3
+  Actors                Wybie
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-20-LOVENSE-OG-S-EXTRAs
+  Preview               The seller Wybie offers Lovense OG usernames at $20 each, including handles
+                        such as CO, Mag and XML. The post also lists random 1-character symbol
+                        handles and random 2-character handles for $10, and offers free short-length
+                        names. Payment is crypto only (BTC, ETH, LTC), contact is via Telegram
+                        @WybieLLC, and the seller disclaims responsibility for anything that happens
+                        to an account after sale.
+  Actor credits         9,200
+  Actor joined          Apr 2024
+  Actor posts           89
+  Actor rank            Void Upgrade
+  Actor reputation      310
+  Actor threads         11
+  Actor vouches         71
+  Screenshot available  true
+  Screenshot count      1
+
+#103   2026-11-02 01:41   LOW (score 10)
+Buyer requests Ulta Beauty accounts on HackForums
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:41
+  UUID                  4cfe5fed-11d0-4d7e-89f4-57a5ad7b83c6
+  Actors                mcgadgets101
+  Victim                Unknown
+  Country               Unknown
+  Sector                Retail
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 HackForums
+  Forum domain          hackforums[.]net
+  Forum code            HF
+  Board                 Forum 291
+  URL                   hxxps://hackforums[.]net/showthread.php?tid=6335220
+  Preview               The user mcgadgets101 is asking anyone who has Ulta Beauty accounts to
+                        message them privately. The post gives no quantity, price, or account
+                        details and refers to starting a contract. Ulta Beauty is only the account
+                        target, not a confirmed breach victim.
+  Actor joined          Jul 2022
+  Actor posts           35
+  Actor threads         6
+  Screenshot available  true
+  Screenshot count      1
+
+#114   2026-11-02 00:52   LOW (score 10)
+Buyer seeking Telegram NFT usernames at below-market quicksell prices
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:52
+  UUID                  c9a8bc2c-26df-49db-ba5a-c1e6dce85a08
+  Actors                sinjster
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-BUYING-all-Telegram-Quicksell-Users-better-Dark-ones
+  Preview               The actor sinjster is looking to buy clean Telegram NFT usernames,
+                        preferring dark (high-value) handles, and says they will pay below market
+                        price (quicksell undermarket). Payment is in crypto only, contact is via
+                        Telegram @sinjster, and sellers are advised to confirm onsite before
+                        dealing.
+  Actor credits         4,357
+  Actor joined          Mar 2026
+  Actor posts           27
+  Actor rank            Solar Upgrade
+  Actor reputation      65
+  Actor threads         4
+  Actor vouches         3
+  Screenshot available  true
+  Screenshot count      1
+
+#115   2026-11-02 00:19   LOW (score 16)
+SMTP and AWS SES email service accounts for sale with 50K-100K sending limits
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:19
+  UUID                  f8001ff3-0775-4401-bb5d-335f6f60d9ba
+  Actors                KLAYVO
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Sellers Section
+  URL                   hxxps://crackingx[.]com/threads/102456/
+  Preview               The actor KLAYVO sells SMTP and email-delivery accounts for SendGrid,
+                        Mailgun, SparkPost, SMTP2GO, Elastic, SMTP[.]com, Brevo, Postmark and AWS
+                        SES. Prices range from $150 for 50K-limit accounts to $700 for AWS SES 50K.
+                        Buyers receive full login credentials, the replacement warranty is voided if
+                        the password or settings are changed, and payment is in crypto (BTC, USDT,
+                        ETH, LTC) with contact via Telegram.
+  Actor joined          23 Jul 2026
+  Actor points          28
+  Actor posts           904
+  Actor rank            Member
+  Actor reactions       91
+  Screenshot available  true
+  Screenshot count      1
+
+#117   2026-11-02 00:18   LOW (score 10)
+Google Cloud and DigitalOcean accounts with prepaid credits offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 00:18
+  UUID                  6c0855bd-956d-4609-b0a9-bd029e73727e
+  Actors                KLAYVO
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 CrackingX
+  Forum domain          crackingx[.]com
+  Forum code            CX
+  Board                 Sellers Section
+  URL                   hxxps://crackingx[.]com/threads/102457/
+  Preview               The seller KLAYVO advertises Google Cloud accounts with $1000, $2500 or
+                        $5000 in credits valid for 12 months, priced at $100, $160 and $300.
+                        DigitalOcean accounts with $5,000 to $100,000 in credits are also offered,
+                        priced from $250 to $1400. The listing promises instant delivery, a 2-week
+                        replacement or refund guarantee, and payment via Payoneer, USDT or BTC.
+  Actor joined          23 Jul 2026
+  Actor points          28
+  Actor posts           904
+  Actor rank            Member
+  Actor reactions       91
+  Screenshot available  true
+  Screenshot count      2
+
+====================================================================================================
+CRITICAL CVE — 9 incidents
+====================================================================================================
+
+#9   2026-11-02 07:18   HIGH (score 50)
+CVE-2026-120344: A vulnerability has been found in WAVLINK WN551X3-A M51X3_V251020-WO-182e965. This
+affects the function system...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 07:18
+  UUID         CVE-2026-120344
+  Description  A vulnerability has been found in WAVLINK WN551X3-A M51X3_V251020-WO-182e965. This
+               affects the function system of the file /bin/ioos of the component WireGuard CLI
+               Group Handler. Such manipulation of the argument group_name leads to os command
+               injection. The attack may be performed from remote. The exploit has been disclosed to
+               the public and may be used. The vendor was contacted early about this disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+#63   2026-11-02 04:18   MEDIUM (score 45)
+CVE-2026-120322: A vulnerability was identified in Termix-SSH Termix up to 2.9.2. This issue affects
+some unknown processing of...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 04:18
+  UUID         CVE-2026-120322
+  Description  A vulnerability was identified in Termix-SSH Termix up to 2.9.2. This issue affects
+               some unknown processing of the file /plugin-api/file-manager/transferToHost. The
+               manipulation of the argument destPath leads to path traversal. The attack may be
+               initiated remotely. The exploit is publicly available and might be used. The shortcut
+               was removed in the standalone File Manager plugin v1.0.0 (transfer engine now always
+               writes over SFTP) and in core v26.10.0. The vendor was contacted early about this
+               disclosure but did not respond in any way.
+  CVSS score   9.9
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-22
+  Status       Received
+
+#78   2026-11-02 03:17   MEDIUM (score 40)
+CVE-2026-120283: A vulnerability was identified in Linksys E8450 1.2.00.360516. Affected is the
+function strcpy of the file /ww...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 03:17
+  UUID         CVE-2026-120283
+  Description  A vulnerability was identified in Linksys E8450 1.2.00.360516. Affected is the
+               function strcpy of the file /www/cgi-bin/portal.cgi. Such manipulation of the
+               argument hidden_timezone leads to stack-based buffer overflow. The attack can be
+               executed remotely. The vendor was contacted early about this disclosure but did not
+               respond in any way.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-119, CWE-121
+  Status       Received
+
+#79   2026-11-02 03:17   MEDIUM (score 45)
+CVE-2026-120282: A vulnerability was determined in WAVLINK WN536AX6-A V260507. This impacts the
+function host_black of the file...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 03:17
+  UUID         CVE-2026-120282
+  Description  A vulnerability was determined in WAVLINK WN536AX6-A V260507. This impacts the
+               function host_black of the file /protocol.csp. This manipulation of the argument mac
+               causes os command injection. Remote exploitation of the attack is possible. The
+               exploit has been publicly disclosed and may be utilized. The vendor was contacted
+               early about this disclosure.
+  CVSS score   9.9
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+#80   2026-11-02 03:17   MEDIUM (score 35)
+CVE-2026-120281: A vulnerability was found in WAVLINK WN536AX6-A V260507. This affects the function
+strcpy of the file /protoco...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 03:17
+  UUID         CVE-2026-120281
+  Description  A vulnerability was found in WAVLINK WN536AX6-A V260507. This affects the function
+               strcpy of the file /protocol.csp of the component OpenVPN Handler. The manipulation
+               of the argument openvpn_ip results in stack-based buffer overflow. The attack may be
+               launched remotely. The exploit has been made public and could be used. The vendor was
+               contacted early about this disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-119, CWE-121
+  Status       Received
+
+#81   2026-11-02 03:17   HIGH (score 50)
+CVE-2026-120280: A vulnerability has been found in WAVLINK WN536AX6-A V260507. The impacted element
+is the function wireguard_c...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 03:17
+  UUID         CVE-2026-120280
+  Description  A vulnerability has been found in WAVLINK WN536AX6-A V260507. The impacted element is
+               the function wireguard_cli_group handler of the file /protocol.csp of the component
+               WireGuard. The manipulation of the argument group_id/group_name leads to os command
+               injection. The attack may be initiated remotely. The exploit has been disclosed to
+               the public and may be used. The vendor was contacted early about this disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+#82   2026-11-02 03:17   HIGH (score 50)
+CVE-2026-120279: A flaw has been found in WAVLINK WN536AX6-A V260507. The affected element is an
+unknown function of the file /...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 03:17
+  UUID         CVE-2026-120279
+  Description  A flaw has been found in WAVLINK WN536AX6-A V260507. The affected element is an
+               unknown function of the file /protocol.csp of the component openvpn_cli Handler.
+               Executing a manipulation of the argument file_id can lead to os command injection.
+               The attack can be launched remotely. The exploit has been published and may be used.
+               The vendor was contacted early about this disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+#97   2026-11-02 02:18   MEDIUM (score 35)
+CVE-2026-120277: A security vulnerability has been detected in WAVLINK WN536AX6-A V260507_2.0.0.
+This issue affects the functio...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 02:18
+  UUID         CVE-2026-120277
+  Description  A security vulnerability has been detected in WAVLINK WN536AX6-A V260507_2.0.0. This
+               issue affects the function sub_41a1d8 of the file /bin/ioos of the component
+               WireGuard CLI Group Handler. Such manipulation of the argument group_name leads to os
+               command injection. It is possible to launch the attack remotely. The exploit has been
+               disclosed publicly and may be used. The vendor was contacted early about this
+               disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+#98   2026-11-02 02:18   HIGH (score 50)
+CVE-2026-120276: A weakness has been identified in WAVLINK WN536AX6-A V260507_2.0.0. This
+vulnerability affects the function su...
+----------------------------------------------------------------------------------------------------
+  Source type  Vulnerability database
+  Date         2026-11-02 02:18
+  UUID         CVE-2026-120276
+  Description  A weakness has been identified in WAVLINK WN536AX6-A V260507_2.0.0. This
+               vulnerability affects the function sub_416760 of the file /bin/ioos of the component
+               Web Management Interface. This manipulation of the argument group_name causes os
+               command injection. It is possible to initiate the attack remotely. The exploit has
+               been made available to the public and could be used for attacks. The vendor was
+               contacted early about this disclosure.
+  CVSS score   10
+  CVSS vector  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+  CWEs         CWE-77, CWE-78
+  Status       Received
+
+====================================================================================================
+RANSOMWARE — 6 incidents
+====================================================================================================
+
+#19   2026-11-02 06:54   MEDIUM (score 40)
+Company #117 (N0n)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 06:54
+  UUID         Q29tcGFueSAjMTE3QE4wbg
+  Actors       N0n
+  Victim       Company #117
+  Country      USA
+  Description  dental insurance · United States | [PENDING EXPOSURE]
+  Attack date  2026-11-02
+  Claim url    hxxp://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+
+#20   2026-11-02 06:53   MEDIUM (score 40)
+Company #116 (N0n)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 06:53
+  UUID         Q29tcGFueSAjMTE2QE4wbg
+  Actors       N0n
+  Victim       Company #116
+  Country      USA
+  Description  data collaboration and identity resolution · United States | [PENDING EXPOSURE]
+  Attack date  2026-11-02
+  Claim url    hxxp://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+
+#21   2026-11-02 06:53   MEDIUM (score 40)
+Company #115 (N0n)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 06:53
+  UUID         Q29tcGFueSAjMTE1QE4wbg
+  Actors       N0n
+  Victim       Company #115
+  Country      USA
+  Description  digital sports entertainment and gaming · United States | [PENDING EXPOSURE]
+  Attack date  2026-11-02
+  Claim url    hxxp://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+
+#22   2026-11-02 06:52   MEDIUM (score 40)
+Company #114 (N0n)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 06:52
+  UUID         Q29tcGFueSAjMTE0QE4wbg
+  Actors       N0n
+  Victim       Company #114
+  Country      USA
+  Description  biopharmaceutical · United States | [PENDING EXPOSURE]
+  Attack date  2026-11-02
+  Claim url    hxxp://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+
+#23   2026-11-02 06:52   MEDIUM (score 40)
+Company #113 (N0n)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 06:52
+  UUID         Q29tcGFueSAjMTEzQE4wbg
+  Actors       N0n
+  Victim       Company #113
+  Country      USA
+  Description  storage and organization retail · United States | [PENDING EXPOSURE]
+  Attack date  2026-11-02
+  Claim url    hxxp://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+
+#38   2026-11-02 05:50   CRITICAL (score 90)
+Michigan State University (BYOD)
+----------------------------------------------------------------------------------------------------
+  Source type  Ransomware leak-site tracker
+  Date         2026-11-02 05:50
+  UUID         TWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eUBCWU9E
+  Actors       BYOD
+  Victim       Michigan State University
+  Country      USA
+  Sector       Education
+  Description  Full Personal Identifiable Information for 1.03 million current and ex students as
+               well as the full team in relations to MSU, we also have current and ex passwords, as
+               well as a full compromise towards your System, don't let it scale any further, you've
+               been given the chance to the make the right choice. Anyways, you know where to find
+               us (contact tab). We will take you down when communication has been established
+               between our team and yours.
+  Attack date  2026-11-01
+
+====================================================================================================
+PHISHING — 3 incidents
+====================================================================================================
+
+#56   2026-11-02 04:40   CRITICAL (score 70)
+Alleged data breach of Binance China: 1.2M+ user records with credentials, wallet keys and session
+tokens offered for sale
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:40
+  UUID                  f8d2a07c-e804-4e80-aabf-0d148b793fb3
+  Actors                PixelVoid
+  Victim                Binance China
+  Country               China
+  Sector                Cryptocurrency / Financial Services
+  Victim site           binance[.]com
+  Data type             Personal Data
+  Network               openweb
+  Forum                 Breached
+  Forum domain          breached[.]st
+  Forum code            BF2
+  URL                   hxxps://breached[.]st/threads/subject-verified-binance-china-elite-db-1-2m-users-full-credentials-direct-wallet-access-keys.89664/unread
+  Preview               The actor offers a single-source sale of a database allegedly containing
+                        1,200,000+ Binance China user records. Claimed fields include usernames,
+                        emails, plaintext passwords and hashes, wallet access keys for BTC/ETH/BNB,
+                        session tokens, and KYC data such as phone numbers and ID details. No
+                        samples are provided, the post promotes account takeover, fund drainage and
+                        phishing use, and contact is via Telegram @ImmarV03.
+  Actor rank            Citizen
+  Screenshot available  true
+  Screenshot count      1
+
+#65   2026-11-02 04:08   LOW (score 15)
+2026 WORKING OTP BOT | BYPASS 2FA IN 1MIN | INSTAGRAM,FACEBOOK,COINBASE,BINANCE
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:08
+  UUID                  3e177315-ca1d-4d66-8fb9-2bea2d9afc16
+  Actors                Voxvilon
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Unknown
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Cracked Tools
+  URL                   hxxps://darkforums[.]as/Thread-2026-WORKING-OTP-BOT-BYPASS-2FA-IN-1MIN%E2%9C%85-INSTAGRAM-FACEBOOK-COINBASE-BINANCE--119940
+  Preview               The thread is titled 2026 WORKING OTP BOT | BYPASS 2FA IN 1MIN |
+                        INSTAGRAM,FACEBOOK,COINBASE,BINANCE. The source post did not provide enough
+                        extractable detail for a verified summary.
+  Screenshot available  true
+  Screenshot count      1
+
+#112   2026-11-02 01:00   LOW (score 15)
+Discord OTP verification bot source code shared on DarkForums
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 01:00
+  UUID                  9f846fa7-7ba7-4e80-be69-e2379e32f208
+  Actors                Xanmuler
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Source Code
+  Network               openweb
+  Forum                 DarkForums
+  Forum domain          darkforums[.]as
+  Forum code            DF
+  Board                 Source Codes
+  URL                   hxxps://darkforums[.]as/Thread-%E2%AD%90-DISCORD-BOT-FOR-OTP-VERIFICATION%E2%AD%90--120115
+  Preview               Thread by Xanmuler in the Source Codes section titled as a Discord bot for
+                        OTP verification. The post body is hidden behind a reply-to-view gate, so
+                        only the title supports the claim; an OTP bot of this kind is typically used
+                        for OTP-capture phishing, but no details on functionality are visible.
+  Actor joined          May 2026
+  Actor posts           22
+  Actor rank            Members
+  Actor reputation      0
+  Actor threads         19
+  Screenshot available  true
+  Screenshot count      1
+
+====================================================================================================
+CYBER ATTACK — 1 incident
+====================================================================================================
+
+#3   2026-11-02 07:40   HIGH (score 60)
+Alleged hack of Ukraines air raid warning system displaying false nuclear threat alerts
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 07:40
+  UUID                  45b41c64-d3f8-46dd-a7e6-8b57097b3d27
+  Actors                خبرگزاری سایبربان| Cyberban News
+  Victim                Ukraine Air Force / Ukrainian Air Raid Warning System
+  Country               Ukraine
+  Sector                Government / Critical Infrastructure
+  Victim site           Unknown
+  Network               telegram
+  URL                   hxxps://t[.]me/c/1283513914/24472
+  Preview               Ukraines air raid warning system was compromised on Sunday evening and
+                        briefly displayed false alerts regarding nuclear and chemical threats in
+                        Kyiv and other regions. The Ukrainian Air Force confirmed no actual
+                        radiological threat existed and the alerts were removed. Technical details
+                        of the attack and identity of the attackers remain unknown.
+  Screenshot available  true
+  Screenshot count      2
+
+====================================================================================================
+MALWARE — 1 incident
+====================================================================================================
+
+#52   2026-11-02 04:53   LOW (score 25)
+Linktree Usernames Offered for Sale at $30 Each via Telegram
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 04:53
+  UUID                  7eb27a85-63fe-4f1d-8273-216dbc345ca5
+  Actors                swag
+  Victim                Unknown
+  Country               Unknown
+  Sector                Unknown
+  Victim site           Unknown
+  Data type             Accounts
+  Network               openweb
+  Forum                 OGUsers
+  Forum domain          oguser[.]com
+  Forum code            OG
+  URL                   hxxps://oguser[.]com/Thread-Best-Linktree-Finals
+  Preview               The seller lists short Linktree handles such as tall, tear, tier, bin and
+                        flow at $30 each, with lap priced at $150. Several handles are marked sold,
+                        and buyers are directed to Telegram contacts (t[.]me/awfuls, littlestcat)
+                        and told to confirm availability on-site.
+  Actor credits         0
+  Actor joined          Apr 2021
+  Actor posts           765
+  Actor rank            Apollo
+  Actor reputation      1,437
+  Actor threads         8
+  Actor vouches         160
+  Screenshot available  true
+  Screenshot count      1
+
+====================================================================================================
+VULNERABILITY — 1 incident
+====================================================================================================
+
+#25   2026-11-02 06:42   LOW (score 20)
+Sale of client portal access, active vulnerability and 70k finance documents from Italian
+pharmaceutical distributor
+----------------------------------------------------------------------------------------------------
+  Source type           Dark web forum monitoring
+  Date                  2026-11-02 06:42
+  UUID                  fb34e25e-f4d8-4ab4-ab69-0b5e2889f8d4
+  Actors                HSRgroup
+  Victim                Unknown
+  Country               Italy
+  Sector                Pharmaceutical/Medical Distribution
+  Victim site           Unknown
+  Data type             Documents
+  Network               openweb
+  Forum                 Darknet Army
+  Forum domain          darknetarmy[.]io
+  Forum code            DNA
+  Board                 Unverified Sellers Marketplace
+  URL                   hxxps://darknetarmy[.]st/threads/pharma-distributor-%E2%80%93-client-portal-access-70k-finance-docs-active-vulnerability.213926/
+  Preview               The actor offers valid client portal access to a large pharmaceutical
+                        distributor (revenue ~900M euros), plus an active vulnerability that yields
+                        current client credentials, with exploitation and exfiltration scripts. The
+                        package includes 70,000+ commercial and finance documents (4GB, invoices,
+                        transport documents, order history), ~200 clinic and hospital client
+                        accounts with credentials, contact details and VAT data, and financial
+                        analytics from August-September. Starting price is $100,000 with…
+  Actor joined          October 30, 2026
+  Actor points          0
+  Actor posts           4
+  Actor rank            New Member
+  Actor reactions       0
+  Screenshot available  true
+  Screenshot count      2
+
+Generated by A.K Threat Hub.
