@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 7 November 2026
 ====================================================================================================
-219 incidents, numbered as in the PDF report (#1 is the newest). Generated 7 November 2026, 08:41 by
+219 incidents, numbered as in the PDF report (#1 is the newest). Generated 8 November 2026, 10:04 by
 A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps, [.])
 and record counts are as claimed by the poster.
 
@@ -2163,7 +2163,7 @@ CVE-2026-17410: IBM API Connect 10[.]0[.]8[.]0 through 10[.]0[.]8[.]12 and 12[.]
   CVSS vector        CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
   Vendor             IBM
 
-#21   2026-11-07 06:34   MEDIUM (score 35)
+#21   2026-11-07 06:34   MEDIUM (score 40)
 CVE-2026-17409: IBM API Connect 10[.]0[.]8[.]0 through 10[.]0[.]8[.]12 and 12[.]1[.]0[.]0 through
 12[.]1[.]1[.]2 could allow a remote attacker to...
 ----------------------------------------------------------------------------------------------------
@@ -4834,7 +4834,7 @@ Benesch Law (SilentRansomGroup)
 VULNERABILITY — 6 incidents
 ====================================================================================================
 
-#90   2026-11-07 05:06   HIGH (score 65)
+#90   2026-11-07 05:06   CRITICAL (score 85)
 exploits
 ----------------------------------------------------------------------------------------------------
   Source type           Dark web forum monitoring
