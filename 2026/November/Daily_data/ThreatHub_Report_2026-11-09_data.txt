@@ -1,9 +1,9 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 9 November 2026
 ====================================================================================================
-128 incidents, numbered as in the PDF report (#1 is the newest). Generated 9 November 2026, 08:22 by
-A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps, [.])
-and record counts are as claimed by the poster.
+128 incidents, numbered as in the PDF report (#1 is the newest). Generated 10 November 2026, 13:06
+by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
+[.]) and record counts are as claimed by the poster.
 
 CATEGORIES
   Logs ...............................................................................     89    70%
@@ -3197,7 +3197,7 @@ GetCAPTCHAsetting of the file...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:P
   Vendor             D-Link
 
-#66   2026-11-09 02:37   MEDIUM (score 35)
+#66   2026-11-09 02:37   MEDIUM (score 40)
 CVE-2026-119506: Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by
 DynamiApps...
 ----------------------------------------------------------------------------------------------------
