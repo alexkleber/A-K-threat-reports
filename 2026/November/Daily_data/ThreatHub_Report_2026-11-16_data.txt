@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 16 November 2026
 ====================================================================================================
-125 incidents, numbered as in the PDF report (#1 is the newest). Generated 16 November 2026, 09:25
+125 incidents, numbered as in the PDF report (#1 is the newest). Generated 17 November 2026, 08:16
 by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
 [.]) and record counts are as claimed by the poster.
 
