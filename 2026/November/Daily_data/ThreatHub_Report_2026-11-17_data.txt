@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 17 November 2026
 ====================================================================================================
-177 incidents, numbered as in the PDF report (#1 is the newest). Generated 17 November 2026, 08:16
+177 incidents, numbered as in the PDF report (#1 is the newest). Generated 18 November 2026, 08:55
 by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
 [.]) and record counts are as claimed by the poster.
 
@@ -4062,7 +4062,7 @@ Alleged data leak involving Fournishop
 CRITICAL CVE — 11 incidents
 ====================================================================================================
 
-#22   2026-11-17 06:47   MEDIUM (score 35)
+#22   2026-11-17 06:47   HIGH (score 50)
 CVE-2026-120387: An improper JWT signature verification vulnerability in CIRCUTOR PowerStudio SCADA
 WAVE desktop version...
 ----------------------------------------------------------------------------------------------------
@@ -4082,7 +4082,7 @@ WAVE desktop version...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H
   Vendor             Circutor
 
-#71   2026-11-17 03:43   MEDIUM (score 35)
+#71   2026-11-17 03:43   MEDIUM (score 40)
 CVE-2026-79614: An out-of-bounds write vulnerability in “libclinkc[.]so” in Zyxel
 DX3301-T0/EX3301-T0 firmware versions through...
 ----------------------------------------------------------------------------------------------------
@@ -4160,7 +4160,7 @@ bypass vulnerability...
   CVSS vector        CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
   Vendor             thorsten
 
-#75   2026-11-17 03:40   MEDIUM (score 35)
+#75   2026-11-17 03:40   MEDIUM (score 45)
 CVE-2026-130380: AdminNeo before 5.9.1 contains an authentication bypass vulnerability in the
 sqlsrv-based MS SQL driver that...
 ----------------------------------------------------------------------------------------------------
@@ -4232,7 +4232,7 @@ path traversal vulnerability t...
   CWEs         CWE-306
   Status       Received
 
-#176   2026-11-17 00:00   MEDIUM (score 35)
+#176   2026-11-17 00:00   MEDIUM (score 40)
 CVE-2026-130070: Ghost by muneeb141 on the main branch from commit c731cdf through commit 672dfec
 contains an authentication...
 ----------------------------------------------------------------------------------------------------
