@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 19 November 2026
 ====================================================================================================
-192 incidents, numbered as in the PDF report (#1 is the newest). Generated 19 November 2026, 07:48
+192 incidents, numbered as in the PDF report (#1 is the newest). Generated 20 November 2026, 08:10
 by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
 [.]) and record counts are as claimed by the poster.
 
@@ -4070,7 +4070,7 @@ function get_wlan_sitesurvey of...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X
   Vendor             GearUP
 
-#62   2026-11-19 05:31   MEDIUM (score 35)
+#62   2026-11-19 05:31   MEDIUM (score 40)
 CVE-2026-131914: Deserialization of untrusted data in double-submit cookie vs. form field validation
 in Idunno.AntiCsrf...
 ----------------------------------------------------------------------------------------------------
@@ -4235,7 +4235,7 @@ issue is the function json_l...
   CWEs         CWE-119, CWE-121
   Status       Deferred
 
-#166   2026-11-19 00:12   MEDIUM (score 35)
+#166   2026-11-19 00:12   MEDIUM (score 45)
 CVE-2026-129987: Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the
 database password...
 ----------------------------------------------------------------------------------------------------
@@ -4835,7 +4835,7 @@ Alleged website defacement of appleleader[.]com[.]ua by Velvet Team
 OPEN SOURCE VULNERABILITY — 1 incident
 ====================================================================================================
 
-#104   2026-11-19 02:45   LOW (score 20)
+#104   2026-11-19 02:45   MEDIUM (score 30)
 GHSA-8fh7-7q4q-cq52: Miren Runtime: Authentication bypass in RPC layer: unverified TLS client
 certificates grant cluster superuser access
 ----------------------------------------------------------------------------------------------------
