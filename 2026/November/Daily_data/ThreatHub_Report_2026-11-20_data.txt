@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 20 November 2026
 ====================================================================================================
-145 incidents, numbered as in the PDF report (#1 is the newest). Generated 20 November 2026, 08:23
+145 incidents, numbered as in the PDF report (#1 is the newest). Generated 21 November 2026, 09:01
 by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
 [.]) and record counts are as claimed by the poster.
 
@@ -3281,7 +3281,7 @@ J... W... (SilentRansomGroup)
 OPEN SOURCE VULNERABILITY — 9 incidents
 ====================================================================================================
 
-#84   2026-11-20 02:23   MEDIUM (score 30)
+#84   2026-11-20 02:23   MEDIUM (score 40)
 GHSA-mc8w-wjhw-45x5: Etherpad: Pre-auth arbitrary file read
 ----------------------------------------------------------------------------------------------------
   Source type        Open source vulnerability advisories
