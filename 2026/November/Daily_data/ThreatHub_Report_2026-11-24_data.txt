@@ -1,7 +1,7 @@
 A.K THREAT HUB — INCIDENT DATA
 Period: 24 November 2026
 ====================================================================================================
-193 incidents, numbered as in the PDF report (#1 is the newest). Generated 24 November 2026, 08:21
+193 incidents, numbered as in the PDF report (#1 is the newest). Generated 25 November 2026, 08:23
 by A.K Threat Hub. Every field is copied from the collected data; addresses are defanged (hxxps,
 [.]) and record counts are as claimed by the poster.
 
@@ -3334,7 +3334,7 @@ CVE-2026-9790: Endpoints accessible without authentication from any WiFi client 
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H
   Vendor             Acer
 
-#34   2026-11-24 05:13   MEDIUM (score 35)
+#34   2026-11-24 05:13   MEDIUM (score 45)
 CVE-2026-135736: FFmpeg 4.4 before 9.1 contains a heap out-of-bounds read and write vulnerability in
 libavfilter/vf_deband.c...
 ----------------------------------------------------------------------------------------------------
@@ -3354,7 +3354,7 @@ libavfilter/vf_deband.c...
   CVSS vector        CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
   Vendor             FFMPEG
 
-#35   2026-11-24 05:13   MEDIUM (score 35)
+#35   2026-11-24 05:13   MEDIUM (score 45)
 CVE-2026-135743: FFmpeg 4.3 before 9.1 contains a heap out-of-bounds read and write vulnerability in
 the dynaudnorm filter...
 ----------------------------------------------------------------------------------------------------
@@ -3412,7 +3412,7 @@ allows an authenticated...
   CVSS vector        CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
   Vendor             Lantronix
 
-#100   2026-11-24 02:11   MEDIUM (score 35)
+#100   2026-11-24 02:11   MEDIUM (score 45)
 CVE-2026-135686: Trilium through 0.107.0 contains an sql injection vulnerability in
 updateNormalEntity() that allows malicious...
 ----------------------------------------------------------------------------------------------------
@@ -3431,7 +3431,7 @@ updateNormalEntity() that allows malicious...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N
   Vendor             TriliumNext
 
-#101   2026-11-24 02:11   MEDIUM (score 35)
+#101   2026-11-24 02:11   MEDIUM (score 45)
 CVE-2026-135693: rConfig Core 8.0.0 before 8.2.17 and rConfig Pro before 8.4.0 contain a stored
 cross-site scripting...
 ----------------------------------------------------------------------------------------------------
@@ -3451,7 +3451,7 @@ cross-site scripting...
   CVSS vector        CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:P/VC:H/VI:H/VA:N/SC:H/SI:H/SA:N
   Vendor             rconfig
 
-#123   2026-11-24 01:29   MEDIUM (score 35)
+#123   2026-11-24 01:29   MEDIUM (score 45)
 CVE-2026-134401: Improper input validation in Variations in Google Chrome prior to 158.0.8127.88
 allowed a remote attacker to...
 ----------------------------------------------------------------------------------------------------
@@ -3489,7 +3489,7 @@ continuous artificial...
   CVSS vector        CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
   Vendor             Significant-Gravitas
 
-#168   2026-11-24 00:22   MEDIUM (score 35)
+#168   2026-11-24 00:22   MEDIUM (score 45)
 CVE-2026-70305: Improper neutralization of input during web page generation ('cross-site scripting')
 in Azure Portal allows an...
 ----------------------------------------------------------------------------------------------------
@@ -3503,7 +3503,7 @@ in Azure Portal allows an...
   CWEs         CWE-79
   Status       Awaiting Analysis
 
-#169   2026-11-24 00:22   MEDIUM (score 35)
+#169   2026-11-24 00:22   MEDIUM (score 45)
 CVE-2026-70193: Improper limitation of a pathname to a restricted directory ('path traversal') in
 Microsoft Office SharePoint...
 ----------------------------------------------------------------------------------------------------
@@ -3518,7 +3518,7 @@ Microsoft Office SharePoint...
   CWEs         CWE-22
   Status       Awaiting Analysis
 
-#170   2026-11-24 00:22   MEDIUM (score 35)
+#170   2026-11-24 00:22   MEDIUM (score 45)
 CVE-2026-69899: Authentication bypass by spoofing in Azure DevTest Labs allows an unauthorized
 attacker to perform spoofing ov...
 ----------------------------------------------------------------------------------------------------
@@ -3532,7 +3532,7 @@ attacker to perform spoofing ov...
   CWEs         CWE-290
   Status       Awaiting Analysis
 
-#173   2026-11-24 00:20   MEDIUM (score 35)
+#173   2026-11-24 00:20   MEDIUM (score 45)
 CVE-2026-62841: Improper authentication in Azure Event Grid allows an unauthorized attacker to
 elevate privileges over a netwo...
 ----------------------------------------------------------------------------------------------------
@@ -3546,7 +3546,7 @@ elevate privileges over a netwo...
   CWEs         CWE-287
   Status       Awaiting Analysis
 
-#174   2026-11-24 00:20   MEDIUM (score 35)
+#174   2026-11-24 00:20   MEDIUM (score 45)
 CVE-2026-50691: Improper authorization in M365 Copilot allows an authorized attacker to elevate
 privileges over a network.
 ----------------------------------------------------------------------------------------------------
@@ -3560,7 +3560,7 @@ privileges over a network.
   CWEs         CWE-285
   Status       Awaiting Analysis
 
-#176   2026-11-24 00:19   MEDIUM (score 35)
+#176   2026-11-24 00:19   MEDIUM (score 45)
 CVE-2026-118286: Improper access control in Azure Site Recovery allows an unauthorized attacker to
 elevate privileges over a ne...
 ----------------------------------------------------------------------------------------------------
@@ -3574,7 +3574,7 @@ elevate privileges over a ne...
   CWEs         CWE-284
   Status       Awaiting Analysis
 
-#177   2026-11-24 00:19   MEDIUM (score 35)
+#177   2026-11-24 00:19   MEDIUM (score 45)
 CVE-2026-118285: Server-side request forgery in Azure Machine Learning allows an authorized attacker
 to elevate privileges over...
 ----------------------------------------------------------------------------------------------------
@@ -3588,7 +3588,7 @@ to elevate privileges over...
   CWEs         CWE-918
   Status       Awaiting Analysis
 
-#178   2026-11-24 00:19   MEDIUM (score 35)
+#178   2026-11-24 00:19   MEDIUM (score 45)
 CVE-2026-113824: Authorization bypass through user-controlled key in Microsoft Clarity allows an
 unauthorized attacker to eleva...
 ----------------------------------------------------------------------------------------------------
@@ -3602,7 +3602,7 @@ unauthorized attacker to eleva...
   CWEs         CWE-639
   Status       Awaiting Analysis
 
-#179   2026-11-24 00:18   MEDIUM (score 35)
+#179   2026-11-24 00:18   MEDIUM (score 45)
 CVE-2026-109490: Improper neutralization of input during web page generation ('cross-site
 scripting') in Authentication Methods...
 ----------------------------------------------------------------------------------------------------
@@ -3617,7 +3617,7 @@ scripting') in Authentication Methods...
   CWEs         CWE-79
   Status       Awaiting Analysis
 
-#180   2026-11-24 00:18   MEDIUM (score 35)
+#180   2026-11-24 00:18   MEDIUM (score 45)
 CVE-2026-109480: Server-side request forgery in Profile Data Roaming Service (PDRS) allows an
 authorized attacker to elevate pr...
 ----------------------------------------------------------------------------------------------------
@@ -3630,7 +3630,7 @@ authorized attacker to elevate pr...
   CVSS vector  CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:N
   Status       Awaiting Analysis
 
-#182   2026-11-24 00:16   MEDIUM (score 35)
+#182   2026-11-24 00:16   MEDIUM (score 45)
 CVE-2026-101864: EUSurvey through 1.6, prior to commit a4161a9, contains a weak password recovery
 mechanism that allows...
 ----------------------------------------------------------------------------------------------------
