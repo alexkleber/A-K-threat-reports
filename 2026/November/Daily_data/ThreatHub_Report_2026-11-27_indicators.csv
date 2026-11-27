@@ -1,0 +1,379 @@
+type,value,role,incident,category,date,field
+url,hxxps://patched[.]to/Thread-x731-hotmail-mail-access-x100-mix-mail-access-361740,post,#1,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#1,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-X731-HOTMAIL-MAIL-ACCESS-X100-MIX-MAIL-ACCESS--2194997,post,#2,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#2,Logs,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-SELLING-CRYPTO-191K-PAYBITO-COM-WITH-KYC-DOCS,post,#3,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#3,Data Breach,2026-11-27,published_url
+domain,paybito[.]com,victim,#3,Data Breach,2026-11-27,victim_site
+domain,pwnforums[.]st,forum,#3,Data Breach,2026-11-27,forum_domain
+url,hxxps://oguser[.]com/Thread-LF-SEMIS-ANIME-JP-%CA%95-%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94,post,#4,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#4,Accounts,2026-11-27,forum_domain
+url,hxxps://oguser[.]com/Thread-CRAZY-DC-SNIPES,post,#5,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#5,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-file-upload-13-422-semi-valide-fa-good-line-fresh-2026-mail-pass,post,#6,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#6,Logs,2026-11-27,forum_domain
+url,hxxps://leakforum[.]io/Thread-Leak-13-422-Semi-Valide-FA-Good-Line-Fresh-2026-Mail-Pass,post,#7,Logs,2026-11-27,published_url
+domain,facebook[.]com,victim,#7,Logs,2026-11-27,victim_site
+domain,leakforum[.]io,forum,#7,Logs,2026-11-27,forum_domain
+url,hxxps://zone-xsec[.]com/mirror/id/990000,post,#8,Defacement,2026-11-27,published_url
+domain,soulfulquranacademy[.]com,victim,#8,Defacement,2026-11-27,victim_site
+domain,zone-xsec[.]com,forum,#8,Defacement,2026-11-27,forum_domain
+url,hxxps://zone-xsec[.]com/mirror/id/990001,post,#9,Defacement,2026-11-27,published_url
+domain,photography-by-rebecca[.]com,victim,#9,Defacement,2026-11-27,victim_site
+domain,zone-xsec[.]com,forum,#9,Defacement,2026-11-27,forum_domain
+url,hxxps://zone-xsec[.]com/mirror/id/989999,post,#10,Defacement,2026-11-27,published_url
+domain,succulenthubindia[.]com,victim,#10,Defacement,2026-11-27,victim_site
+domain,zone-xsec[.]com,forum,#10,Defacement,2026-11-27,forum_domain
+ip,91[.]108[.]100[.]89,mentioned,#10,Defacement,2026-11-27,content_preview
+url,hxxps://raidforums[.]im/Thread-Test-thread-33983-by-dl47001,post,#11,Data Leak,2026-11-27,published_url
+url,hxxps://oguser[.]com/Thread-HIGH-TIER-DC-SHOP,post,#12,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#12,Accounts,2026-11-27,forum_domain
+url,hxxps://breached[.]st/threads/southwest-airlines-127000-azure-employee-dump-name-email-employee-id-title-phone-address-6k34u7,post,#13,Data Breach,2026-11-27,published_url
+domain,southwest[.]com,victim,#13,Data Breach,2026-11-27,victim_site
+domain,breached[.]st,forum,#13,Data Breach,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-mixed-%E2%9A%A1mail-access-full-private-fresh-361734,post,#14,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#14,Logs,2026-11-27,forum_domain
+url,hxxps://zone-xsec[.]com/mirror/id/989998,post,#15,Defacement,2026-11-27,published_url
+domain,psijaquelinesantoscosta[.]com[.]br,victim,#15,Defacement,2026-11-27,victim_site
+domain,zone-xsec[.]com,forum,#15,Defacement,2026-11-27,forum_domain
+url,hxxps://bf[.]st/Thread-DATABASE-Mega-Breach-Dump-50K-Lines-Ledger-Coinbase-Data-Crypto-Wallets,post,#16,Data Breach,2026-11-27,published_url
+domain,breached[.]hn,forum,#16,Data Breach,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-NAYARIT-GOB-MX-FULL-DATABASED-l-LICENSIAS-DE-CONDUCIR-SELL-l-CURP-CVE-NOMBRE-COMPLETO,post,#17,Vulnerability,2026-11-27,published_url
+domain,nayarit[.]gob[.]mx,victim,#17,Vulnerability,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#17,Vulnerability,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-DATABASE-DATALEAK-of-SATES-Sinaloa-M%C3%A9xico,post,#18,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#18,Data Breach,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#18,Data Breach,2026-11-27,forum_domain
+url,hxxp://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid[.]onion/companies/93/sternklinik-medi-z-bremen-gmbh,leak site,#19,Ransomware,2026-11-27,claim_url
+onion,5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid[.]onion,leak site,#19,Ransomware,2026-11-27,claim_url
+domain,sternklinik[.]net,victim,#19,Ransomware,2026-11-27,victim_site
+url,hxxps://www[.]sternklinik[.]net,mentioned,#19,Ransomware,2026-11-27,description
+url,hxxps://darkforums[.]as/Thread-DATABASE-11-000-000-bank-carrefoursolucoes-com-br,post,#20,Cyber Attack,2026-11-27,published_url
+domain,carrefoursolucoes[.]com[.]br,victim,#20,Cyber Attack,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#20,Cyber Attack,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-DATALEAK-of-SATES-Sinaloa-M%C3%A9xico,post,#21,Data Leak,2026-11-27,published_url
+domain,darkforums[.]as,forum,#21,Data Leak,2026-11-27,forum_domain
+url,hxxps://raidforums[.]im/Thread-5X-Tradingview-Pro-Accounts,post,#22,Accounts,2026-11-27,published_url
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-Animal-Husbandry-Department-Government-Of-Andhra-Pradesh,post,#23,Data Leak,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#23,Data Leak,2026-11-27,published_url
+domain,users.csv,victim,#23,Data Leak,2026-11-27,victim_site
+domain,pwnforums[.]st,forum,#23,Data Leak,2026-11-27,forum_domain
+url,hxxps://oguser[.]com/Thread-LF-tiktok--1323956,post,#24,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#24,Accounts,2026-11-27,forum_domain
+url,hxxps://oguser[.]com/Thread-DC-USERNAMES-SHOP,post,#25,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#25,Accounts,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-UCO-digital-SPAIN-All-people,post,#26,Data Breach,2026-11-27,published_url
+domain,anonfilesnew[.]com,victim,#26,Data Breach,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#26,Data Breach,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-DATABASE-FR-URSSAF-270K,post,#27,Data Leak,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#27,Data Leak,2026-11-27,published_url
+domain,urssaf[.]fr,victim,#27,Data Leak,2026-11-27,victim_site
+domain,pwnforums[.]st,forum,#27,Data Leak,2026-11-27,forum_domain
+domain,plateforme-numerique[.]urssaf[.]fr,mentioned,#27,Data Leak,2026-11-27,content_preview
+url,hxxps://xforums[.]st/threads/your-perfect-store-for-bank-logs.711260/,post,#28,Logs,2026-11-27,published_url
+domain,xforums[.]st,forum,#28,Logs,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/%E2%9A%A1-ulp-bot-19-m-url-log-pass-fresh-%E2%9A%A1.219217/,post,#29,Logs,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#29,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107278/,post,#30,Logs,2026-11-27,published_url
+domain,netflix[.]com,victim,#30,Logs,2026-11-27,victim_site
+domain,crackingx[.]com,forum,#30,Logs,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-12k-USD-Complete-Database-Instituto-Tecnologico-de-las-Americas-ITLA-and-the-JCE,post,#31,Data Breach,2026-11-27,published_url
+domain,itla[.]edu.do,victim,#31,Data Breach,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#31,Data Breach,2026-11-27,forum_domain
+url,hxxps://zone-xsec[.]com/mirror/id/989994,post,#32,Defacement,2026-11-27,published_url
+domain,wehliyetravel[.]com,victim,#32,Defacement,2026-11-27,victim_site
+domain,zone-xsec[.]com,forum,#32,Defacement,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-hotmail-%E2%9A%A1mail-access-full-private-fresh-361721,post,#33,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#33,Logs,2026-11-27,victim_site
+domain,patched[.]to,forum,#33,Logs,2026-11-27,forum_domain
+url,hxxps://leakforum[.]io/Thread-Hotmail-%E2%9A%A1Mail-Access-Full-Private-Fresh--41503,post,#34,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#34,Logs,2026-11-27,victim_site
+domain,leakforum[.]io,forum,#34,Logs,2026-11-27,forum_domain
+cve,CVE-2026-137706,vulnerability,#35,Critical CVE,2026-11-27,cve
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297694/,post,#36,Malware,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#36,Malware,2026-11-27,published_url
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297692/,post,#37,Accounts,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#37,Accounts,2026-11-27,published_url
+url,hxxps://patched[.]to/Thread-x731-hotmail-mail-access-x100-mix-mail-access-361716,post,#38,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#38,Logs,2026-11-27,forum_domain
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297693/,post,#39,Data Breach,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#39,Data Breach,2026-11-27,published_url
+domain,gmail[.]com,victim,#39,Data Breach,2026-11-27,victim_site
+url,hxxps://cracked[.]st/Thread-X731-HOTMAIL-MAIL-ACCESS-X100-MIX-MAIL-ACCESS--2194959,post,#40,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#40,Logs,2026-11-27,forum_domain
+url,hxxps://breached[.]st/threads/emirates-138000-azure-employee-dump-name-email-title-phone-address-53fim1,post,#41,Data Breach,2026-11-27,published_url
+domain,emirates[.]com,victim,#41,Data Breach,2026-11-27,victim_site
+domain,breached[.]st,forum,#41,Data Breach,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-SELLING-Atlas-Air-14000-Azure-Employee-Dump-Name-Email-Title-Phone-Address,post,#42,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#42,Data Breach,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#42,Data Breach,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/%E2%9A%A1-ulp-bot-12-4-m-url-log-pass-fresh-%E2%9A%A1.219828/,post,#43,Logs,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#43,Logs,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/uhq-ulp-logs.219266/,post,#44,Logs,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#44,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-121-800-8K%E2%9A%A1URL-LOGIN-PASS%E2%9A%A1HIGH-QUALITY,post,#45,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#45,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%90-CLAUDE-%E2%AD%90-CLAUDE-MAX-1-MONTH-FRESH-ACCOUNTS,post,#46,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#46,Accounts,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/%E2%9A%A1-ulp-bot-24-m-url-log-pass-fresh-%E2%9A%A1.219271/,post,#47,Logs,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#47,Logs,2026-11-27,forum_domain
+url,hxxps://breached[.]st/threads/atlas-air-14000-azure-employee-dump-name-email-title-phone-address-njo121,post,#48,Data Breach,2026-11-27,published_url
+domain,atlasair[.]com,victim,#48,Data Breach,2026-11-27,victim_site
+domain,breached[.]st,forum,#48,Data Breach,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/autoreg-phishing-whatsapp-telegram-instagram-accounts-for-sale-worldwide-wholesale-retail.219142/,post,#49,Phishing,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#49,Phishing,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-DATABASE-McKesson-Corporation-99M-Rows-2026,post,#50,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#50,Data Breach,2026-11-27,published_url
+domain,mckesson[.]com,victim,#50,Data Breach,2026-11-27,victim_site
+domain,pwnforums[.]st,forum,#50,Data Breach,2026-11-27,forum_domain
+cve,CVE-2026-106125,vulnerability,#51,Critical CVE,2026-11-27,cve
+cve,CVE-2026-115867,vulnerability,#52,Critical CVE,2026-11-27,cve
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297690/,post,#53,Cyber Attack,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#53,Cyber Attack,2026-11-27,published_url
+url,hxxps://patched[.]to/Thread-121-800-8k%E2%9A%A1url-login-pass%E2%9A%A1high-quality,post,#54,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#54,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-120-8-8M%E2%9A%A1URL-LOGIN-PASS%E2%9A%A1HIGH-QUALITY,post,#55,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#55,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-120-8-8m%E2%9A%A1url-login-pass%E2%9A%A1high-quality,post,#56,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#56,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Other-LUPIN-ULP-879-936-FROM-VIP-SECTION-WORLDWIDE-11-27-2026,post,#57,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#57,Logs,2026-11-27,forum_domain
+url,hxxp://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd[.]onion/api/public/articles/145,leak site,#58,Ransomware,2026-11-27,claim_url
+onion,direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd[.]onion,leak site,#58,Ransomware,2026-11-27,claim_url
+domain,wolterskluwer[.]com,victim,#58,Ransomware,2026-11-27,victim_site
+url,hxxps://xforums[.]st/threads/5-0k-hotmailvalid-mail-access-27-11.711257/,post,#59,Logs,2026-11-27,published_url
+domain,xforums[.]st,forum,#59,Logs,2026-11-27,forum_domain
+url,hxxps://xforums[.]st/threads/22-8k-mix-valid-mail-access-27-11.711258/,post,#60,Logs,2026-11-27,published_url
+domain,xforums[.]st,forum,#60,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-119-8-8m%E2%9A%A1url-login-pass%E2%9A%A1high-quality,post,#61,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#61,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-I-want-to-buy-FA-PSN,post,#62,Accounts,2026-11-27,published_url
+domain,playstation[.]com,victim,#62,Accounts,2026-11-27,victim_site
+domain,cracked[.]st,forum,#62,Accounts,2026-11-27,forum_domain
+domain,txn-email[.]playstation[.]com,mentioned,#62,Accounts,2026-11-27,content_preview
+url,hxxp://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd[.]onion/blog/0b9b56b3-aa6d-405f-952f-05ac524709be,leak site,#63,Ransomware,2026-11-27,claim_url
+onion,bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd[.]onion,leak site,#63,Ransomware,2026-11-27,claim_url
+domain,elektro-ruppen[.]ch,victim,#63,Ransomware,2026-11-27,victim_site
+url,hxxps://cracked[.]st/Thread-119-8-8M%E2%9A%A1URL-LOGIN-PASS%E2%9A%A1HIGH-QUALITY,post,#64,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#64,Logs,2026-11-27,forum_domain
+url,hxxps://demonforums[.]net/Thread-Email-Pass-%E2%9C%851-1K%E2%9C%85MIX%E2%9C%85HITS%E2%9C%85MAIL-ACCESS%E2%9C%89%EF%B8%8FSMTPs-Cracked-By-smtps4you%E2%9C%85,post,#65,Logs,2026-11-27,published_url
+domain,demonforums[.]net,forum,#65,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/4471943661/424,post,#66,Data Breach,2026-11-27,published_url
+domain,hypernet[.]sy,victim,#66,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18653,post,#67,Data Breach,2026-11-27,published_url
+domain,octopus[.]com[.]hk,victim,#67,Data Breach,2026-11-27,victim_site
+url,hxxps://patched[.]to/Thread-file-upload-%E2%9C%851-1k%E2%9C%85mix%E2%9C%85hits%E2%9C%85mail-access%E2%9C%89%EF%B8%8Fsmtps-cracked-by-smtps4you%E2%9C%85,post,#68,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#68,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107275/,post,#69,Logs,2026-11-27,published_url
+domain,crackingx[.]com,forum,#69,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18650,post,#70,Data Breach,2026-11-27,published_url
+domain,ctrip[.]com,victim,#70,Data Breach,2026-11-27,victim_site
+email,shinyhunters1337@onionmail[.]com,mentioned,#70,Data Breach,2026-11-27,content_preview
+domain,onionmail[.]com,mentioned,#70,Data Breach,2026-11-27,content_preview
+url,hxxps://cracked[.]st/Thread-Email-Pass-%E2%9C%851-1K%E2%9C%85MIX%E2%9C%85HITS%E2%9C%85MAIL-ACCESS%E2%9C%89%EF%B8%8FSMTPs-Cracked-By-smtps4you%E2%9C%85,post,#71,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#71,Logs,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-SOURCE-CODE-Altecflex-Data-Breach-Leaked-Download--214061,post,#72,Cyber Attack,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#72,Cyber Attack,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#72,Cyber Attack,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/22-8k-%E2%9C%A8-mix-%E2%9C%A8-valid-mail-access-27-11.219888/,post,#73,Logs,2026-11-27,published_url
+domain,darknetarmy[.]io,forum,#73,Logs,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-22-8K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-27-11,post,#74,Logs,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#74,Logs,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#74,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18649,post,#75,Data Breach,2026-11-27,published_url
+url,hxxps://patched[.]to/Thread-22-8k-%E2%9C%A8mix%E2%9C%A8valid-mail-access-27-11,post,#76,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#76,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-buying-fa-psn-target,post,#77,Accounts,2026-11-27,published_url
+domain,patched[.]to,forum,#77,Accounts,2026-11-27,forum_domain
+domain,txn-email[.]playstation[.]com,mentioned,#77,Accounts,2026-11-27,title
+email,Reply@txn-email[.]playstation[.]com,mentioned,#77,Accounts,2026-11-27,content_preview
+url,hxxps://leakforum[.]io/Thread-Mixed-%E2%9A%A1Mail-Access-Full-Private-Fresh--41496,post,#78,Logs,2026-11-27,published_url
+domain,leakforum[.]io,forum,#78,Logs,2026-11-27,forum_domain
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297689/,post,#79,Phishing,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#79,Phishing,2026-11-27,published_url
+url,hxxps://leakforum[.]io/Thread-22-8K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-27-11,post,#80,Logs,2026-11-27,published_url
+domain,leakforum[.]io,forum,#80,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18647,post,#81,Data Breach,2026-11-27,published_url
+domain,softbank[.]jp,victim,#81,Data Breach,2026-11-27,victim_site
+url,hxxps://darkforums[.]as/Thread-22-8K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-27-11,post,#82,Logs,2026-11-27,published_url
+domain,darkforums[.]as,forum,#82,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107274/,post,#83,Logs,2026-11-27,published_url
+domain,crackingx[.]com,forum,#83,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-22-8K-%E2%9C%A8Mix%E2%9C%A8Valid-Mail-Access-27-11,post,#84,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#84,Logs,2026-11-27,forum_domain
+url,hxxps://altenens[.]is/threads/22-8k-sparkles-mix-sparkles-valid-mail-access-27-11.3057331/unread,post,#85,Logs,2026-11-27,published_url
+domain,altenens[.]is,forum,#85,Logs,2026-11-27,forum_domain
+url,hxxps://demonforums[.]net/Thread-22-8K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-27-11,post,#86,Logs,2026-11-27,published_url
+domain,demonforums[.]net,forum,#86,Logs,2026-11-27,forum_domain
+url,hxxps://nulledbb[.]com/thread-22-8K-%E2%9C%A8-Mix-%E2%9C%A8-Valid-Mail-Access-27-11,post,#87,Logs,2026-11-27,published_url
+domain,nulledbb[.]com,forum,#87,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-mixed-%E2%9A%A1mail-access-full-private-fresh-361703,post,#88,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#88,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-i-need-fa-hits-with-this-target-361701,post,#89,Accounts,2026-11-27,published_url
+domain,playstation[.]com,victim,#89,Accounts,2026-11-27,victim_site
+domain,patched[.]to,forum,#89,Accounts,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18645,post,#90,Data Breach,2026-11-27,published_url
+domain,didiglobal[.]com,victim,#90,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18626,post,#91,Data Breach,2026-11-27,published_url
+domain,azal[.]az,victim,#91,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18624,post,#92,Data Breach,2026-11-27,published_url
+domain,gulfair[.]com,victim,#92,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18608,post,#93,Data Breach,2026-11-27,published_url
+domain,kuwaitairways[.]com,victim,#93,Data Breach,2026-11-27,victim_site
+url,hxxps://oguser[.]com/Thread-buying-revenges,post,#94,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#94,Accounts,2026-11-27,forum_domain
+url,hxxps://darknetarmy[.]st/threads/5-0k-%E2%9A%A1hotmail%E2%9A%A1valid-mail-access-27-11.219886/,post,#95,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#95,Logs,2026-11-27,victim_site
+domain,darknetarmy[.]io,forum,#95,Logs,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-5-0K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-27-11,post,#96,Logs,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#96,Logs,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#96,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-%E2%AD%90%EF%B8%8F-643-logs-%E2%9A%94%EF%B8%8F-daily-drop-26-nov-%E2%80%94-fresh-cloud,post,#97,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#97,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-5-0K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-27-11,post,#98,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#98,Logs,2026-11-27,victim_site
+domain,cracked[.]st,forum,#98,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107272/,post,#99,Accounts,2026-11-27,published_url
+domain,crackingx[.]com,forum,#99,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-5-0k-%E2%9A%A1hotmail%E2%9A%A1valid-mail-access-27-11,post,#100,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#100,Logs,2026-11-27,victim_site
+domain,patched[.]to,forum,#100,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107273/,post,#101,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#101,Logs,2026-11-27,victim_site
+domain,crackingx[.]com,forum,#101,Logs,2026-11-27,forum_domain
+url,hxxps://altenens[.]is/threads/5-0k-high-voltagehotmailhigh-voltagevalid-mail-access-27-11.3057326/unread,post,#102,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#102,Logs,2026-11-27,victim_site
+domain,altenens[.]is,forum,#102,Logs,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-5-0K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-27-11,post,#103,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#103,Logs,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#103,Logs,2026-11-27,forum_domain
+url,hxxps://nulledbb[.]com/thread-5-0K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-27-11,post,#104,Logs,2026-11-27,published_url
+domain,nulledbb[.]com,forum,#104,Logs,2026-11-27,forum_domain
+url,hxxps://demonforums[.]net/Thread-5-0K-%E2%9A%A1Hotmail%E2%9A%A1Valid-Mail-Access-27-11,post,#105,Logs,2026-11-27,published_url
+domain,hotmail[.]com,victim,#105,Logs,2026-11-27,victim_site
+domain,demonforums[.]net,forum,#105,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-x731-hotmail-mail-access-x100-mix-mail-access-361696,post,#106,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#106,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-X731-HOTMAIL-MAIL-ACCESS-X100-MIX-MAIL-ACCESS--2194932,post,#107,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#107,Logs,2026-11-27,forum_domain
+url,hxxps://xforums[.]st/threads/10522x-hq-mix-by-jaxcloudadmin.711256/,post,#108,Logs,2026-11-27,published_url
+domain,xforums[.]st,forum,#108,Logs,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-South-Korea-E-commerce-metree-co-kr-leak-2026--126453,post,#109,Data Breach,2026-11-27,published_url
+domain,metree[.]co[.]kr,victim,#109,Data Breach,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#109,Data Breach,2026-11-27,forum_domain
+url,hxxp://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad[.]onion,leak site,#110,Ransomware,2026-11-27,claim_url
+onion,whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad[.]onion,leak site,#110,Ransomware,2026-11-27,claim_url
+email,whitearmorrxd@proton[.]me,mentioned,#110,Ransomware,2026-11-27,description
+domain,mps[.]com,victim,#111,Ransomware,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18563,post,#116,Data Breach,2026-11-27,published_url
+domain,ine[.]mx,victim,#116,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18559,post,#117,Data Breach,2026-11-27,published_url
+domain,trezor[.]io,victim,#117,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18566,post,#118,Data Breach,2026-11-27,published_url
+domain,rta[.]ae,victim,#118,Data Breach,2026-11-27,victim_site
+url,hxxps://t[.]me/c/3500620464/18555,post,#119,Malware,2026-11-27,published_url
+email,shinyhunters1337@onionmail[.]com,mentioned,#119,Malware,2026-11-27,content_preview
+domain,onionmail[.]com,mentioned,#119,Malware,2026-11-27,content_preview
+url,hxxps://t[.]me/c/3500620464/18560,post,#120,Data Breach,2026-11-27,published_url
+domain,alaxione[.]fr,victim,#120,Data Breach,2026-11-27,victim_site
+domain,pointvision[.]com,mentioned,#120,Data Breach,2026-11-27,title
+url,hxxps://oguser[.]com/Thread-CHEAPEST-TELEGRAM-SEMIS--1323920,post,#121,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#121,Accounts,2026-11-27,forum_domain
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-SELLING-Financial-Rating-Agency-USA-851k-users-MD5,post,#122,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#122,Data Breach,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#122,Data Breach,2026-11-27,forum_domain
+cve,CVE-2026-127163,vulnerability,#123,Critical CVE,2026-11-27,cve
+cve,CVE-2026-135384,vulnerability,#124,Critical CVE,2026-11-27,cve
+url,hxxps://patched[.]to/Thread-file-upload-35-388-private-fa-good-line-fresh-2026-mail-pass,post,#125,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#125,Logs,2026-11-27,forum_domain
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297686/,post,#126,Accounts,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#126,Accounts,2026-11-27,published_url
+domain,fedex[.]com,victim,#126,Accounts,2026-11-27,victim_site
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297687/,post,#127,Malware,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#127,Malware,2026-11-27,published_url
+url,hxxp://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion/Thread-How-to-get-data,post,#128,Data Breach,2026-11-27,published_url
+onion,pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd[.]onion,post,#128,Data Breach,2026-11-27,published_url
+domain,pwnforums[.]st,forum,#128,Data Breach,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107268/,post,#129,Accounts,2026-11-27,published_url
+domain,crackingx[.]com,forum,#129,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-file-upload-3272-mk2-cloud-m-x-mk2-private-base,post,#130,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#130,Logs,2026-11-27,forum_domain
+url,hxxps://bf[.]st/Thread-DOCUMENTS-Proven-Ways-to-Earn-Thousands-of-Dollars-in-Real-Money,post,#131,Malware,2026-11-27,published_url
+domain,breached[.]hn,forum,#131,Malware,2026-11-27,forum_domain
+domain,globalhacker[.]pro,mentioned,#131,Malware,2026-11-27,content_preview
+url,hxxp://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id[.]onion/company/babaiai/,leak site,#132,Ransomware,2026-11-27,claim_url
+onion,t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id[.]onion,leak site,#132,Ransomware,2026-11-27,claim_url
+url,hxxps://oguser[.]com/Thread-Limited-Offer-Quick-Buying-Your-Usernames,post,#133,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#133,Accounts,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Claude-CVP-Accounts--2194918,post,#134,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#134,Accounts,2026-11-27,forum_domain
+domain,cvpwithcrypto[.]com,mentioned,#134,Accounts,2026-11-27,content_preview
+url,hxxps://cracked[.]st/Thread-Other-%E2%9A%A1ZHIPU-GLM-%E2%9A%A1-API-KEY-%E2%9A%A1-710K-TOKENS-%E2%9A%A1-GLM-5-3-%E2%9A%A1-GLM-5-3-Flash-%E2%9A%A1-GLM-5-2-%E2%9A%A1TOKIES-%E2%9A%A1--2194913,post,#135,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#135,Accounts,2026-11-27,forum_domain
+url,hxxps://xforums[.]st/threads/ulp-bot-12-4-m-url-log-pass-fresh.711253/,post,#136,Logs,2026-11-27,published_url
+domain,xforums[.]st,forum,#136,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Email-Pass-%E2%8F%BA%E2%84%B9%EF%B8%8FX669-USA-CORP-MAIL-ACCESS-MIX%E2%84%B9%EF%B8%8F%E2%8F%BA-25-11,post,#137,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#137,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Other-%E2%9C%85OPENAI-GPT-%E2%9C%85-API-KEY-%E2%9C%85-320K-TOKENS-%E2%9C%85-GPT-6-1-SOL-%E2%9C%85-GPT-6-ASTRA-%E2%9C%85-CODEX-%E2%9C%85TOKIES-%E2%9C%85--2194904,post,#138,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#138,Accounts,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%90UNCENSORED-MODELS-%E2%AD%90-API-KEY-%E2%AD%90-1-4M-TOKENS-%E2%AD%90-DeepSeek-V4-Pro-%E2%AD%90-GLM-5-3-%E2%AD%90TOKIES-%E2%AD%90--2194907,post,#139,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#139,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-%E2%9A%A1google-gemini-%E2%9A%A1-api-key-%E2%9A%A1-340k-tokens-%E2%9A%A1-gemini-4-argon-%E2%9A%A1-gemini-3-1-pro-%E2%9A%A1tokies-%E2%9A%A1-361685,post,#140,Accounts,2026-11-27,published_url
+domain,patched[.]to,forum,#140,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-%E2%AD%90deepseek-%E2%AD%90-api-key-%E2%AD%90-1-5m-tokens-%E2%AD%90-deepseek-v4-pro-%E2%AD%90-deepseek-v4-flash-%E2%AD%90-tokies-%E2%AD%90-361686,post,#141,Accounts,2026-11-27,published_url
+domain,patched[.]to,forum,#141,Accounts,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%9C%A8GOOGLE-GEMINI-%E2%9C%A8-API-KEY-%E2%9C%A8-340K-TOKENS-%E2%9C%A8-GEMINI-4-ARGON-%E2%9C%A8-Gemini-3-1-Pro-%E2%9C%A8TOKIES-%E2%9C%A8--2194909,post,#142,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#142,Accounts,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Other-2-5gb-%E2%AD%90%EF%B8%8F-STEALER-LOGS-FULL-LOGS-%E2%AD%90%EF%B8%8F--2194908,post,#143,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#143,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%9C%A8DEEPSEEK-%E2%9C%A8-API-KEY-%E2%9C%A8-1-5M-TOKENS-%E2%9C%A8-DeepSeek-V4-Pro-%E2%9C%A8-DeepSeek-V4-Flash-%E2%9C%A8-TOKIES-%E2%9C%A8--2194911,post,#144,Accounts,2026-11-27,published_url
+domain,cracked[.]st,forum,#144,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-%E2%9C%A8anthropic-claude-%E2%9C%A8-api-key-%E2%9C%A8-300k-tokens-%E2%9C%A8-fable-5-1-%E2%9C%A8-opus-5-5-%E2%9C%A8tokies-%E2%9C%A8-361679,post,#145,Accounts,2026-11-27,published_url
+domain,patched[.]to,forum,#145,Accounts,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-mixed-%E2%9A%A1mail-access-full-private-fresh-361681,post,#146,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#146,Logs,2026-11-27,forum_domain
+url,hxxps://patched[.]to/Thread-%E2%8F%BA%E2%84%B9%EF%B8%8Fx669-usa-corp-mail-access-mix%E2%84%B9%EF%B8%8F%E2%8F%BA-25-11,post,#147,Logs,2026-11-27,published_url
+domain,patched[.]to,forum,#147,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Other-25m-%E2%9A%A1-URL-LOGIN-PASS-HQ-%E2%9A%A1--2194902,post,#148,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#148,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18556,post,#149,Data Breach,2026-11-27,published_url
+url,hxxps://cracked[.]st/Thread-Email-Pass-11-7k-%E2%9C%A8-HOTMAIL-MIX-VALID-MAIL-ACCESS-%E2%9C%A8,post,#150,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#150,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%90920k%E2%AD%90-MAIL-PASS-X-DISCORD-INSTAGRAM-FACEBOOK-REDDIT-%E2%9A%A1BY-NUTTELA%E2%9A%A1--2194888,post,#151,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#151,Logs,2026-11-27,forum_domain
+url,hxxps://darkforums[.]as/Thread-DATABASE-Telcel-2026-All-of-Mexico,post,#152,Data Breach,2026-11-27,published_url
+domain,telcel[.]com,victim,#152,Data Breach,2026-11-27,victim_site
+domain,darkforums[.]as,forum,#152,Data Breach,2026-11-27,forum_domain
+url,hxxps://altenens[.]is/threads/star920kstar-mail-pass-x-discord-instagram-facebook-reddit.3057299/unread,post,#153,Logs,2026-11-27,published_url
+domain,altenens[.]is,forum,#153,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%901-1M%E2%AD%90-MAIL-PASS-GAMING-ROBLOX-UPLAY-PSN-XBOX-%E2%9A%A1BY-NUTTELA%E2%9A%A1--2194884,post,#154,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#154,Logs,2026-11-27,forum_domain
+url,hxxps://altenens[.]is/threads/star1-1mstar-mail-pass-gaming-roblox-uplay-psn-xbox.3057295/unread,post,#155,Logs,2026-11-27,published_url
+domain,altenens[.]is,forum,#155,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-Supreme-%E2%AD%90%EF%B8%8F-NEW-Interac-e-transfer-17-Banks-Fullz-Phishing-Page-Livepanel-1-1-%E2%AD%90%EF%B8%8F,post,#156,Phishing,2026-11-27,published_url
+domain,cracked[.]st,forum,#156,Phishing,2026-11-27,forum_domain
+url,hxxps://oguser[.]com/Thread-saddddddddddd,post,#157,Accounts,2026-11-27,published_url
+domain,oguser[.]com,forum,#157,Accounts,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107265/,post,#158,Accounts,2026-11-27,published_url
+domain,crackingx[.]com,forum,#158,Accounts,2026-11-27,forum_domain
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297685/,post,#159,Accounts,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#159,Accounts,2026-11-27,published_url
+url,hxxps://cracked[.]st/Thread-%E2%AD%90197k%E2%AD%90-MAIL-PASS-GAMING-ROBLOX-UPLAY-PSN-XBOX-%E2%9A%A1BY-ZEWS%E2%9A%A1,post,#160,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#160,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%90305K%E2%AD%90-MAIL-PASS-X-DISCORD-INSTAGRAM-FACEBOOK-REDDIT-%E2%9A%A1BY-ZEWS%E2%9A%A1,post,#161,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#161,Logs,2026-11-27,forum_domain
+url,hxxps://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion/topic/297683/,post,#162,Data Breach,2026-11-27,published_url
+onion,exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd[.]onion,post,#162,Data Breach,2026-11-27,published_url
+domain,b.tc,victim,#162,Data Breach,2026-11-27,victim_site
+url,hxxps://cracked[.]st/Thread-%E2%AD%90260K%E2%AD%90MAIL-PASS-FRESHLY-DUMPED-%E2%9A%A1ULTRA-HIGH-QUALITY%E2%9A%A1,post,#163,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#163,Logs,2026-11-27,forum_domain
+url,hxxps://cracked[.]st/Thread-%E2%AD%90225K%E2%AD%90-MAIL-PASS-FEDEX-DISCORD-%E2%9A%A1BY-ZEWS%E2%9A%A1,post,#164,Logs,2026-11-27,published_url
+domain,cracked[.]st,forum,#164,Logs,2026-11-27,forum_domain
+url,hxxps://t[.]me/c/3500620464/18549,post,#165,Malware,2026-11-27,published_url
+url,hxxps://leakforum[.]io/Thread-Leak-%E2%9A%A1-ULP-BOT-12-4-M-URL-LOG-PASS-FRESH-%E2%9A%A1,post,#166,Logs,2026-11-27,published_url
+domain,leakforum[.]io,forum,#166,Logs,2026-11-27,forum_domain
+url,hxxps://crackingx[.]com/threads/107263/,post,#167,Logs,2026-11-27,published_url
+domain,crackingx[.]com,forum,#167,Logs,2026-11-27,forum_domain
+url,hxxps://nulledbb[.]com/thread-%E2%9A%A1-ULP-BOT-12-4-M-URL-LOG-PASS-FRESH-%E2%9A%A1,post,#168,Logs,2026-11-27,published_url
+domain,nulledbb[.]com,forum,#168,Logs,2026-11-27,forum_domain
